@@ -1,6 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
-import { pathToFileURL } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+
+// HERE needs node 20.11+; this works back to node 18.
+const HERE = path.dirname(fileURLToPath(import.meta.url));
 
 export const TAXONOMY = [
   {
@@ -576,7 +579,7 @@ function renderDocs() {
   }
   md += `\n## Assignments (2.3 rules)\n\n`;
   md += `1. \`risk=offensive\` skills are forced to \`offensive-security\` (index-only).\n2. Taxonomy order = priority; max 3 categories per record.\n3. No match → \`misc\` (flagged for the AI/human pass).\n`;
-  const out = path.join(import.meta.dirname, "..", "docs", "CATEGORIES.md");
+  const out = path.join(HERE, "..", "docs", "CATEGORIES.md");
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, md);
   console.log(`wrote ${out}`);

@@ -1,9 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { VALID_IDS } from "./taxonomy.mjs";
 
-const CATALOG = path.join(import.meta.dirname, "..", "src", "data", "catalog.jsonl");
-const AI_TAGS = path.join(import.meta.dirname, "..", "src", "data", "ai-tags.json");
+// HERE needs node 20.11+; this works back to node 18.
+const HERE = path.dirname(fileURLToPath(import.meta.url));
+
+const CATALOG = path.join(HERE, "..", "src", "data", "catalog.jsonl");
+const AI_TAGS = path.join(HERE, "..", "src", "data", "ai-tags.json");
 
 function main() {
   if (!fs.existsSync(CATALOG)) {
@@ -69,8 +73,8 @@ function main() {
 
   // Phase 4.0 license gate (mini-core only): every approved skill ships as a
   // file, so each needs a permissive license + attribution + safe risk.
-  const corePath = path.join(import.meta.dirname, "..", "src", "data", "core-pack.json");
-  const coreDir = path.join(import.meta.dirname, "..", "skills-core");
+  const corePath = path.join(HERE, "..", "src", "data", "core-pack.json");
+  const coreDir = path.join(HERE, "..", "skills-core");
   if (fs.existsSync(corePath)) {
     const corePack = JSON.parse(fs.readFileSync(corePath, "utf8"));
     const byName = new Map(recs.map((r) => [r.name, r]));
@@ -89,7 +93,7 @@ function main() {
     }
   }
 
-  const curatedPath = path.join(import.meta.dirname, "..", "src", "data", "curated-top.json");
+  const curatedPath = path.join(HERE, "..", "src", "data", "curated-top.json");
   if (fs.existsSync(curatedPath)) {
     const curated = JSON.parse(fs.readFileSync(curatedPath, "utf8"));
     const names = new Set(recs.map((r) => r.name));

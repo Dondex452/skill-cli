@@ -1,61 +1,65 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { classify } from "./taxonomy.mjs";
+
+// HERE needs node 20.11+; this works back to node 18.
+const HERE = path.dirname(fileURLToPath(import.meta.url));
 
 const SKILLS_DIR =
   process.env.SKILLS_DIR ?? "C:/Users/Admin/Desktop/complete skills";
 const MANIFEST_CSV = path.join(SKILLS_DIR, "_manifest.csv");
 const OUT_JSONL = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "catalog.jsonl"
 );
 const OUT_FAILURES = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "parse-failures.json"
 );
 const LICENSES_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "licenses.json"
 );
 const AI_TAGS_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "ai-tags.json"
 );
 const ORIGINS_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "origins.json"
 );
 const CORE_PACK_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "core-pack.json"
 );
 const CURATED_TOP_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
   "curated-top.json"
 );
 const BLOCKLIST_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "scripts",
   "blocklist.json"

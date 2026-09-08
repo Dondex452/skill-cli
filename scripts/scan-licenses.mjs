@@ -1,10 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+// HERE needs node 20.11+; this works back to node 18.
+const HERE = path.dirname(fileURLToPath(import.meta.url));
 
 const SKILLS_DIR =
   process.env.SKILLS_DIR ?? "C:/Users/Admin/Desktop/complete skills";
 const OUT_JSON = path.join(
-  import.meta.dirname,
+  HERE,
   "..",
   "src",
   "data",
