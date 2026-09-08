@@ -338,6 +338,34 @@ test("view shows curated rank and note for reviewed tier", () => {
   assert.match(r.stdout, /Tier\s+reviewed/);
 });
 
+test("install fetchable without pin refuses before any network", () => {
+  const cat = path.join(tmpdir(), "catalog.jsonl");
+  fs.writeFileSync(
+    cat,
+    JSON.stringify({
+      name: "demo-fetch",
+      description: "fetched demo skill for tests",
+      category: ["developer-tooling"],
+      risk: "safe",
+      license: "MIT",
+      tokens: 10,
+      files: 1,
+      tier: "indexed",
+      availability: "fetchable",
+      origin: { repo: "o/r", ref: "main", path: "sk", pin: null },
+    }) + "\n"
+  );
+  const agent = tmpdir();
+  const r = run(["install", "demo-fetch", "--dir", agent], {
+    SKILL_CLI_CATALOG: cat,
+    SKILL_CLI_API_BASE: "http://127.0.0.1:9",
+    SKILL_CLI_RAW_BASE: "http://127.0.0.1:9",
+  });
+  assert.equal(r.status, 4);
+  assert.match(r.stderr, /no pinned version/);
+  assert.equal(fs.existsSync(path.join(agent, "demo-fetch")), false);
+});
+
 test("install then doctor sees a clean dir (hidden state ignored)", () => {
   const agent = tmpdir();
   const core = tmpdir();

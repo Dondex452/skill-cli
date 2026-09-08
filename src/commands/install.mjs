@@ -1,7 +1,8 @@
 import fs from "node:fs";
 import { loadCatalog, byName } from "../lib/catalog.mjs";
 import { detectAgentDirs } from "../lib/paths.mjs";
-import { copySkill, resolveSourceRoot, permissiveLicense } from "../lib/install.mjs";
+import { copySkill, resolveSourceRoot, permissiveLicense, readState, writeState } from "../lib/install.mjs";
+import { fetchSkillDir, short, FetchError } from "../lib/fetch.mjs";
 import { paint } from "../lib/output.mjs";
 import { CODES, usageError } from "../lib/exit.mjs";
 
@@ -10,7 +11,7 @@ export const command = {
   usage: "install <name> [--dir <agentDir>]",
   summary: "copy a core-pack skill into your agent folder",
   flags: { dir: "string" },
-  run(positionals, options) {
+  async run(positionals, options) {
     const name = positionals.join(" ").trim();
     if (!name) return usageError("install needs a skill name", command.usage);
 
@@ -21,11 +22,7 @@ export const command = {
       return CODES.NOT_FOUND;
     }
     if (record.availability === "fetchable") {
-      console.error(
-        `"${record.name}" is fetchable (origin pinned) but fetch-install ` +
-          "isn't built yet (Phase 2.4). Only core-pack skills install today."
-      );
-      return CODES.UNAVAILABLE;
+      return await installFetchable(record, options);
     }
     if (record.availability !== "core") {
       console.error(
@@ -92,3 +89,74 @@ export const command = {
     return CODES.OK;
   },
 };
+
+async function installFetchable(record, options) {
+  if (record.risk === "offensive") {
+    console.error(`risk gate: "${record.name}" is flagged risk: offensive — refusing to install.`);
+    return CODES.UNAVAILABLE;
+  }
+  let agentDir = options.dir;
+  if (!agentDir) {
+    const found = detectAgentDirs().find((d) => d.found);
+    if (!found) {
+      return usageError(
+        "no agent skill dir found — pass --dir <path> (or run: skill-cli init <dir>)",
+        command.usage
+      );
+    }
+    agentDir = found.dir;
+  }
+  if (!fs.existsSync(agentDir) || !fs.statSync(agentDir).isDirectory()) {
+    return usageError(
+      `agent dir not found: ${agentDir} (run: skill-cli init ${agentDir})`,
+      command.usage
+    );
+  }
+
+  const o = record.origin ?? {};
+  console.log(
+    paint(`fetching ${record.name} from ${o.repo}@${short(o.pin)} …`, "dim")
+  );
+  let stage;
+  try {
+    stage = await fetchSkillDir(record.name, record.origin);
+  } catch (err) {
+    if (err instanceof FetchError) {
+      console.error(`fetch failed: ${err.message}`);
+      return CODES.UNAVAILABLE;
+    }
+    throw err;
+  }
+  let result;
+  try {
+    result = copySkill(stage.stageRoot, record.name, agentDir);
+  } catch (err) {
+    fs.rmSync(stage.stageRoot, { recursive: true, force: true });
+    if (String(err.message).startsWith("already installed")) {
+      console.error(`error: ${err.message}`);
+      return CODES.CONFLICT;
+    }
+    console.error(`error: ${err.message}`);
+    return CODES.UNAVAILABLE;
+  }
+  fs.rmSync(stage.stageRoot, { recursive: true, force: true });
+
+  // stamp the fetch provenance into state (uninstall/doctor ignore extra fields)
+  const state = readState(agentDir);
+  if (state[record.name]) {
+    state[record.name].origin = {
+      repo: o.repo, ref: o.ref, path: o.path, pin: o.pin,
+      installedAt: new Date().toISOString(),
+    };
+    writeState(agentDir, state);
+  }
+
+  console.log(
+    paint(`installed ${record.name} -> ${result.dest}`, "green") +
+      `  (${result.files} file${result.files === 1 ? "" : "s"}, ~${record.tokens} tokens)`
+  );
+  console.log(
+    paint(`origin: ${o.repo}@${short(o.pin)} · ${o.path} · license: ${record.license ?? "unknown"}`, "dim")
+  );
+  return CODES.OK;
+}

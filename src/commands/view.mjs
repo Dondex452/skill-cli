@@ -41,11 +41,14 @@ export const command = {
       if (record.curated_note) line("Curator note", record.curated_note);
     }
     line("Availability", record.availability);
+    if (record.origin?.repo) {
+      line("Origin", `${record.origin.repo}@${String(record.origin.pin ?? "").slice(0, 7)} / ${record.origin.path}`);
+    }
     line("Updated", record.updated ?? "-");
     if (record.availability === "fetchable") {
       console.log(
         paint(
-          "fetchable: origin pinned, but fetch-install isn't built yet (Phase 2.4). Only core-pack skills install today.",
+          "fetchable: pinned origin — install downloads it now (needs internet).",
           "yellow"
         )
       );
