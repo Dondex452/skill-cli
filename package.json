@@ -6,6 +6,27 @@
   "bin": {
     "skill-cli": "src/cli.js"
   },
+  "files": [
+    "src/",
+    "skills-core/",
+    "README.md",
+    "LICENSE",
+    "docs/INSTALL.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dondex452/skill-cli.git"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "skills",
+    "cli",
+    "claude",
+    "opencode",
+    "gemini",
+    "cursor"
+  ],
   "scripts": {
     "build:catalog": "node scripts/build-catalog.mjs",
     "build:categories-doc": "node scripts/taxonomy.mjs --docs",

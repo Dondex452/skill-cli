@@ -290,9 +290,13 @@ function main() {
 
   const outDir = path.dirname(OUT_JSONL);
   fs.mkdirSync(outDir, { recursive: true });
+  // size discipline: omit null/undefined fields (consumers all use ?. / ??).
+  // Keeps the catalog under the 1 MB budget as origins + curation grow.
+  const stripNulls = (r) =>
+    Object.fromEntries(Object.entries(r).filter(([, v]) => v !== null && v !== undefined));
   fs.writeFileSync(
     OUT_JSONL,
-    records.map((r) => JSON.stringify(r)).join("\n") + "\n"
+    records.map((r) => JSON.stringify(stripNulls(r))).join("\n") + "\n"
   );
 
   const bytes = fs.statSync(OUT_JSONL).size;

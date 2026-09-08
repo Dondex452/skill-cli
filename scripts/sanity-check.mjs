@@ -67,6 +67,28 @@ function main() {
   const avail = {};
   for (const r of recs) avail[r.availability] = (avail[r.availability] ?? 0) + 1;
 
+  // Phase 4.0 license gate (mini-core only): every approved skill ships as a
+  // file, so each needs a permissive license + attribution + safe risk.
+  const corePath = path.join(import.meta.dirname, "..", "src", "data", "core-pack.json");
+  const coreDir = path.join(import.meta.dirname, "..", "skills-core");
+  if (fs.existsSync(corePath)) {
+    const corePack = JSON.parse(fs.readFileSync(corePath, "utf8"));
+    const byName = new Map(recs.map((r) => [r.name, r]));
+    for (const name of corePack.approved ?? []) {
+      const r = byName.get(name);
+      if (!r) issues.push(`core-pack unknown skill: ${name}`);
+      else {
+        if (!/^(mit|apache|bsd|isc|mpl|unlicense|cc0|zlib)/i.test(r.license ?? ""))
+          issues.push(`core-pack non-permissive license: ${name} (${r.license})`);
+        if (!r.attribution) issues.push(`core-pack missing attribution: ${name}`);
+        if (r.risk === "offensive") issues.push(`core-pack offensive: ${name}`);
+        if (r.availability !== "core") issues.push(`core-pack not core: ${name}`);
+      }
+      if (!fs.existsSync(path.join(coreDir, name, "SKILL.md")))
+        issues.push(`core-pack files missing: ${name}`);
+    }
+  }
+
   const curatedPath = path.join(import.meta.dirname, "..", "src", "data", "curated-top.json");
   if (fs.existsSync(curatedPath)) {
     const curated = JSON.parse(fs.readFileSync(curatedPath, "utf8"));

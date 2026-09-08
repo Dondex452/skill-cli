@@ -1,7 +1,7 @@
 # MEMORY — skill-cli
 
 **Repo:** `C:\Users\Admin\Desktop\hope 1` · git initialized · public target `Dondex452/skill-cli`
-**Last session:** 2026-09-08 — rev.3 + origins (1,521) + mini-core shipped (7) + REVIEW_3.3 (49 OK/1 FIX) + Phase 3.4 DONE (curated-top 106, `top` live) + FIRST COMMIT b2fae90 (62 files, tree clean) · 68 tests green
+**Last session:** 2026-09-08 — rev.3 + origins (1,521) + mini-core (7) + REVIEW_3.3 + 3.4 (top 106) + 2.4 fetch engine LIVE (93f26b6) · 76 tests green · b2fae90 + 93f26b6 committed
 
 ## State
 - `scripts/build-catalog.mjs` — generator (env `SKILLS_DIR` override, default `C:/Users/Admin/Desktop/complete skills`) — emits `category`/`category_source`, applies `src/data/ai-tags.json`
