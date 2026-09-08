@@ -32,7 +32,7 @@
     "build:categories-doc": "node scripts/taxonomy.mjs --docs",
     "scan:threats": "node scripts/scan-threats.mjs",
     "sanity-check": "node scripts/sanity-check.mjs",
-    "test": "node --test \"tests/**/*.test.mjs\""
+    "test": "node --test tests/catalog.test.mjs tests/cli.test.mjs tests/fetch.test.mjs tests/install.test.mjs tests/search.test.mjs tests/taxonomy.test.mjs"
   },
   "license": "MIT",
   "engines": {
