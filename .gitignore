@@ -2,3 +2,7 @@ node_modules/
 skills-full/
 *.log
 .DS_Store
+# internal working papers (kept locally, never published)
+MEMORY.md
+DECISION_LOG_1.5.md
+docs/REVIEW_3.3.md

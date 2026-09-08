@@ -1,48 +1,22 @@
 # skill-cli
 
-**1,569 skills indexed · 106 curated · 7 ship in the core pack.**
+Your AI assistant can learn new skills. This finds the good ones and installs them.
 
-Find, review, and install AI agent skills for Claude Code, OpenCode, Gemini CLI,
-Cursor, and Codex — from one local catalog. Search is instant and offline; installs
-are either offline file copies (core pack) or pinned downloads from the skill's
-original author (fetchable tier). Nothing is ever bundled without permission.
+A **skill** is a small instruction pack that makes assistants like Claude Code,
+OpenCode, Gemini CLI, or Cursor better at one thing: writing cleaner, using fewer
+tokens, building bots, checking code, doing research. Thousands exist, scattered
+across GitHub. This collects **1,569** of them into one searchable list, ranks the
+**top 106**, and installs them with one command.
 
 ```sh
 npm i -g skill-cli
-skill-cli search "voice ai"
-skill-cli top 20
-skill-cli install caveman --dir ~/.claude/skills
+
+skill-cli search "voice ai"     # find skills for a task
+skill-cli top 20                # the curated best-of list
+skill-cli install caveman       # install it into your assistant
 ```
 
-## How it works
-
-Every skill in the catalog has an **availability** level, shown by every command:
-
-| Level | Meaning | Install |
-|---|---|---|
-| `core` | 7 verified skills shipped in `skills-core/`, MIT + attributed | offline copy |
-| `fetchable` | 1,423 skills with a version-pinned origin | downloads from the author at install |
-| `index-only` | 139 skills: no verified origin yet, or gated | `skill-cli request <name>` to ask for it |
-
-`reviewed` tier (106 skills) is the human-curated best-of list behind `top` —
-each entry has a one-line note describing what the skill actually does.
-
-## Commands
-
-```
-skill-cli search <query>            # ranked search over the catalog
-skill-cli view <name>               # skill card: tier, license, origin, curation
-skill-cli install <name>            # core now; fetchable downloads pinned
-skill-cli uninstall <name>          # remove (asks before deleting your edits)
-skill-cli list                      # filter by --category --tool --tier
-skill-cli top [n] [--category X]    # curated best-of (106 entries)
-skill-cli stats                     # catalog health
-skill-cli doctor                    # validate your agent setup
-skill-cli init <dir>                # bootstrap a skills folder
-skill-cli request <name>            # open an issue asking for a skill
-```
-
-Example:
+Real output:
 
 ```
 $ skill-cli top 5
@@ -59,15 +33,40 @@ $ skill-cli top 5
 5 of 106 curated
 ```
 
-## Docs
+## How installing works
 
-- `docs/INSTALL.md` — install the CLI and set up agent folders
-- `docs/BUILDING.md` — regenerate the catalog, run the pipeline
+Each skill shows an availability level:
+
+- **`core`** — 7 verified skills shipped with the tool. Install works offline.
+- **`fetchable`** — 1,423 skills downloaded from the original author at a pinned
+  version. Needs internet, can't silently change under you.
+- **`index-only`** — searchable but not installable (no verified source yet).
+  `skill-cli request <name>` asks for it to be added.
+
+Search is instant and fully offline. Nothing is ever bundled without the
+author's permission — see `docs/LICENSES.md`.
+
+## All commands
+
+```
+skill-cli search <query>            # ranked search
+skill-cli view <name>               # details: license, origin, curator note
+skill-cli install <name> [--dir X]  # install into an agent folder
+skill-cli uninstall <name>          # remove (asks before deleting your edits)
+skill-cli list [--category X]       # browse with filters
+skill-cli top [n] [--category X]    # the curated best-of
+skill-cli stats                     # catalog health
+skill-cli doctor                    # check your setup
+skill-cli init <dir>                # make a fresh skills folder
+skill-cli request <name>            # ask for a skill to be added
+```
+
+## Learn more
+
+- `docs/INSTALL.md` — setup walkthrough
+- `docs/CATEGORIES.md` — all 63 categories
 - `docs/LICENSES.md` — what ships, what doesn't, and why
-- `docs/CATEGORIES.md` — the 63-category taxonomy
-- `CONTRIBUTING.md` — contribution rules
+- `docs/BUILDING.md` — for contributors: regenerate the catalog
+- `BUILD_SCHEMA.md` — the internal build plan
 
-## License
-
-MIT for the code and tooling (`LICENSE`). Individual skills keep their own
-licenses and authors — see `docs/LICENSES.md`.
+MIT licensed. Built in the open.

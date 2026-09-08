@@ -1,5 +1,10 @@
 # BUILD SCHEMA — `skill-cli`
 
+> **Visitors start at [README.md](README.md).** This file is the internal build
+> plan: what gets built, in what order, and what rules can never be broken.
+> Some linked worksheets (`DECISION_LOG_1.5.md`, `docs/REVIEW_3.3.md`) are
+> author-local working papers and are intentionally not published.
+
 **Product:** Curated catalog + CLI for installing AI agent skills
 **Asset base:** 1,570 unique skills (source: `C:\Users\Admin\Desktop\complete skills`)
 **Local folder:** `C:\Users\Admin\Desktop\hope 1` — **public GitHub repo name: `skill-cli`** (`Dondex452/skill-cli`)
