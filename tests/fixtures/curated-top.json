@@ -1,0 +1,1 @@
+{"meta":{"reviewer":"test fixture","count":3},"entries":[{"rank":1,"name":"n8n-workflow-patterns","note":"Fixture note: canonical n8n patterns."},{"rank":2,"name":"seo-audit","note":"Fixture note: audit anything."},{"rank":3,"name":"ghost-skill","note":"Not in the fixture catalog; top must skip it."}]}

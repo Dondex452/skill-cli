@@ -1,0 +1,1322 @@
+{
+  "007": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "3d-web-experience": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ASR": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "LLM": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "TTS": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "VLM": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "Videos": {
+    "license": "proprietary",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "active-directory-attacks": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "advogado-criminal": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "advogado-especialista": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "aegisops-ai": {
+    "level": "front-matter",
+    "attribution": "Champbreed"
+  },
+  "agent-evaluation": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "agent-memory-systems": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "agent-orchestrator": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "agent-tool-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ai-agents-architect": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ai-dev-jobs-mcp": {
+    "level": "front-matter",
+    "attribution": "unitedideas"
+  },
+  "ai-engineering-toolkit": {
+    "level": "front-matter",
+    "attribution": "viliawang-pm"
+  },
+  "ai-product": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ai-studio-image": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "ai-wrapper-product": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "akf-trust-metadata": {
+    "level": "front-matter",
+    "attribution": "HMAKT99"
+  },
+  "algolia-search": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "algorithmic-art": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "amazon-alexa": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "analytics-product": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "andrej-karpathy": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "api-fuzzing-bug-bounty": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "astro": {
+    "level": "front-matter",
+    "attribution": "suhaibjanjua"
+  },
+  "astropy": {
+    "license": "BSD-3",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "audit-skills": {
+    "level": "front-matter",
+    "attribution": "MAIOStudio"
+  },
+  "auri-core": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "autonomous-agents": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "aws-penetration-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "aws-serverless": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "azure-functions": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "bdistill-behavioral-xray": {
+    "level": "front-matter",
+    "attribution": "FrancyJGLisboa"
+  },
+  "bdistill-knowledge-extraction": {
+    "level": "front-matter",
+    "attribution": "FrancyJGLisboa"
+  },
+  "bill-gates": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "brand-guidelines-anthropic": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "brand-guidelines-community": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "broken-authentication": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "browser-automation": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "browser-extension-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "building-native-ui": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "bulletmind": {
+    "level": "front-matter",
+    "attribution": "tejasashinde"
+  },
+  "bullmq-specialist": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "burp-suite-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "canvas-design": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "cirq": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "citation-management": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "clarity-gate": {
+    "license": null,
+    "level": "front-matter",
+    "attribution": "Francesco Marinoni Moretto"
+  },
+  "clarvia-aeo-check": {
+    "level": "front-matter",
+    "attribution": "digitamaz"
+  },
+  "claude-api": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "claude-code-expert": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "claude-monitor": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "clerk-auth": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "cloud-penetration-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "comfyui-gateway": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "computer-use-agents": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "context-agent": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "context-guardian": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "context-window-management": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "conversation-memory": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "cred-omega": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "crewai": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "daily-gift": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": "jiawei248"
+  },
+  "design-taste-frontend": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "devcontainer-setup": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "devops-deploy": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "diary": {
+    "license": "MIT",
+    "level": "file",
+    "attribution": null
+  },
+  "discord-bot-architect": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "docx": {
+    "license": "proprietary",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "earllm-build": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "elon-musk": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "email-systems": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ethical-hacking-methodology": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "expo-api-routes": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "expo-cicd-workflows": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "expo-dev-client": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "expo-tailwind-setup": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "faf-expert": {
+    "level": "front-matter",
+    "attribution": "wolfejam"
+  },
+  "faf-wizard": {
+    "license": "MIT",
+    "level": "mention",
+    "attribution": "wolfejam"
+  },
+  "file-path-traversal": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "file-uploads": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "firebase": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "fixing-metadata": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "fp-async": {
+    "level": "front-matter",
+    "attribution": "kadu"
+  },
+  "fp-backend": {
+    "level": "front-matter",
+    "attribution": "kadu"
+  },
+  "fp-data-transforms": {
+    "level": "front-matter",
+    "attribution": "Claude"
+  },
+  "fp-errors": {
+    "level": "front-matter",
+    "attribution": "kadu"
+  },
+  "fp-pragmatic": {
+    "level": "front-matter",
+    "attribution": "kadu"
+  },
+  "fp-react": {
+    "level": "front-matter",
+    "attribution": "fp-ts-skills"
+  },
+  "fp-refactor": {
+    "level": "front-matter",
+    "attribution": "fp-ts-skills"
+  },
+  "frontend-api-integration-patterns": {
+    "level": "front-matter",
+    "attribution": "avij1109"
+  },
+  "frontend-design": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "full-output-enforcement": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "gcp-cloud-run": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "gdb-cli": {
+    "level": "front-matter",
+    "attribution": "Cerdore"
+  },
+  "geoffrey-hinton": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "global-chat-agent-discovery": {
+    "level": "front-matter",
+    "attribution": "pumanitro"
+  },
+  "gmail-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "google-calendar-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "google-docs-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "google-drive-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "google-sheets-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "google-slides-automation": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "gpt-taste": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "graphql": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "growth-engine": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "helium-mcp": {
+    "level": "front-matter",
+    "attribution": "connerlambden"
+  },
+  "high-end-visual-design": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "hono": {
+    "level": "front-matter",
+    "attribution": "suhaibjanjua"
+  },
+  "html-injection-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "hubspot-integration": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "hugging-face-paper-publisher": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "humanizer": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "idea-os": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": "Slashworks-biz"
+  },
+  "idor-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "ilya-sutskever": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "image-edit": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "image-generation": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "image-studio": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "image-understand": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "impeccable": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "indexing-issue-auditor": {
+    "level": "front-matter",
+    "attribution": "WHOISABHISHEKADHIKARI"
+  },
+  "industrial-brutalist-ui": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "inngest": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "instagram": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "interactive-portfolio": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "internal-comms": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "internal-comms-anthropic": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "internal-comms-community": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "interview-coach": {
+    "level": "front-matter",
+    "attribution": "dbhat93"
+  },
+  "jq": {
+    "level": "front-matter",
+    "attribution": "kostakost2"
+  },
+  "junta-leiloeiros": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "k6-load-testing": {
+    "level": "front-matter",
+    "attribution": "Kairo Official"
+  },
+  "kotler-macro-analyzer": {
+    "level": "front-matter",
+    "attribution": "justmiroslav"
+  },
+  "lambda-lang": {
+    "level": "front-matter",
+    "attribution": "voidborne-d"
+  },
+  "lambdatest-agent-skills": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": "tanveer-farooq"
+  },
+  "landing-page-generator": {
+    "level": "front-matter",
+    "attribution": "alirezarezvani"
+  },
+  "langfuse": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "langgraph": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "leiloeiro-avaliacao": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "leiloeiro-edital": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "leiloeiro-ia": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "leiloeiro-juridico": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "leiloeiro-mercado": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "leiloeiro-risco": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "lex": {
+    "level": "front-matter",
+    "attribution": "Svobikl"
+  },
+  "linkedin-profile-optimizer": {
+    "level": "front-matter",
+    "attribution": "WHOISABHISHEKADHIKARI"
+  },
+  "linux-privilege-escalation": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "linux-shell-scripting": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "llm-ops": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "loki-mode": {
+    "license": "MIT",
+    "level": "file",
+    "attribution": null
+  },
+  "matematico-tao": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "maxia": {
+    "level": "front-matter",
+    "attribution": "MAXIA"
+  },
+  "mcp-builder": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "metasploit-framework": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "micro-saas-launcher": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "mindfulness-meditation": {
+    "level": "front-matter",
+    "attribution": "clawd-team"
+  },
+  "minimalist-ui": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "mise-configurator": {
+    "level": "front-matter",
+    "attribution": "community"
+  },
+  "monetization": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "monte-carlo-monitor-creation": {
+    "level": "front-matter",
+    "attribution": "monte-carlo-data"
+  },
+  "monte-carlo-prevent": {
+    "level": "front-matter",
+    "attribution": "monte-carlo-data"
+  },
+  "monte-carlo-push-ingestion": {
+    "level": "front-matter",
+    "attribution": "monte-carlo-data"
+  },
+  "monte-carlo-validation-notebook": {
+    "level": "front-matter",
+    "attribution": "monte-carlo-data"
+  },
+  "moyu": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "multi-advisor": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "multi-agent-task-orchestrator": {
+    "level": "front-matter",
+    "attribution": "milkomida77"
+  },
+  "native-data-fetching": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "neon-postgres": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "network-101": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "nextjs-supabase-auth": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "not-human-search-mcp": {
+    "level": "front-matter",
+    "attribution": "unitedideas"
+  },
+  "notebooklm": {
+    "license": "MIT",
+    "level": "file",
+    "attribution": null
+  },
+  "notion-template-business": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "openclaw-github-repo-commander": {
+    "level": "front-matter",
+    "attribution": "wd041216-bit"
+  },
+  "osterwalder-canvas-architect": {
+    "level": "front-matter",
+    "attribution": "justmiroslav"
+  },
+  "pakistan-payments-stack": {
+    "level": "front-matter",
+    "attribution": "community-contributor"
+  },
+  "pdf": {
+    "license": "proprietary",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "pentest-checklist": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "pentest-commands": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "personal-tool-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "plaid-fintech": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "playwright-java": {
+    "level": "front-matter",
+    "attribution": "amalsam18"
+  },
+  "plotly": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "podcast-generate": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "pptx": {
+    "license": "proprietary",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "privilege-escalation-methods": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "product-design": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "product-inventor": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "product-manager": {
+    "level": "front-matter",
+    "attribution": "Digidai"
+  },
+  "progressive-estimation": {
+    "level": "front-matter",
+    "attribution": "Enreign"
+  },
+  "prompt-caching": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "protect-mcp-governance": {
+    "license": "MIT",
+    "level": "mention",
+    "attribution": null
+  },
+  "puzzle-activity-planner": {
+    "level": "front-matter",
+    "attribution": "fruitwyatt"
+  },
+  "pydantic-ai": {
+    "level": "front-matter",
+    "attribution": "suhaibjanjua"
+  },
+  "python-development-python-scaffold": {
+    "license": "MIT",
+    "level": "mention",
+    "attribution": null
+  },
+  "python-pptx-generator": {
+    "level": "front-matter",
+    "attribution": "spideyashith"
+  },
+  "qiskit": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "rag-engineer": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "rayden-code": {
+    "level": "front-matter",
+    "attribution": "Leslie Williams"
+  },
+  "rayden-use": {
+    "level": "front-matter",
+    "attribution": "Leslie Williams"
+  },
+  "recallmax": {
+    "level": "front-matter",
+    "attribution": "christopherlhammer11-ai"
+  },
+  "red-team-tools": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "redesign-existing-projects": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "salesforce-development": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "sam-altman": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "satori": {
+    "level": "front-matter",
+    "attribution": "MetcalfSolutions"
+  },
+  "scanning-tools": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "scientific-writing": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "scikit-learn": {
+    "license": "BSD-3",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "scroll-experience": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "seaborn": {
+    "license": "BSD-3",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "seek-and-analyze-video": {
+    "level": "front-matter",
+    "attribution": "kennyzheng-builds"
+  },
+  "segment-cdp": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "shodan-reconnaissance": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "shopify-apps": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "skill-check": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": "olgasafonova"
+  },
+  "skill-creator": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "skill-finder-cn": {
+    "level": "front-matter",
+    "attribution": "赚钱小能手"
+  },
+  "skill-installer": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "skill-sentinel": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "skyvern-browser-automation": {
+    "license": "AGPL",
+    "level": "front-matter",
+    "attribution": "mark1ian"
+  },
+  "slack-bot-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "slack-gif-creator": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "smtp-penetration-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "social-orchestrator": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "social-post-writer-seo": {
+    "level": "front-matter",
+    "attribution": "WHOISABHISHEKADHIKARI"
+  },
+  "sql-injection-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "sqlmap-database-pentesting": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "ssh-penetration-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "stability-ai": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "statsmodels": {
+    "license": "BSD-3",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "steve-jobs": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "stitch-design-taste": {
+    "level": "front-matter",
+    "attribution": "Leonxlnx"
+  },
+  "stop-slop": {
+    "license": "MIT",
+    "level": "file",
+    "attribution": null
+  },
+  "sveltekit": {
+    "level": "front-matter",
+    "attribution": "suhaibjanjua"
+  },
+  "task-intelligence": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "technical-change-tracker": {
+    "license": "MIT",
+    "level": "mention",
+    "attribution": "Elkidogz"
+  },
+  "telegram": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "telegram-bot-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "telegram-mini-app": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "terraform-skill": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "theme-factory": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "tmux": {
+    "level": "front-matter",
+    "attribution": "kostakost2"
+  },
+  "tool-use-guardian": {
+    "level": "front-matter",
+    "attribution": "christopherlhammer11-ai"
+  },
+  "top-web-vulnerabilities": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "transformers-js": {
+    "license": "Apache-2.0",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "trigger-dev": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "trpc-fullstack": {
+    "level": "front-matter",
+    "attribution": "suhaibjanjua"
+  },
+  "twilio-communications": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ui-a11y": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-component": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-page": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-pattern": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-review": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-setup": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ui-tokens": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "uncle-bob-craft": {
+    "level": "front-matter",
+    "attribution": "antigravity-contributors"
+  },
+  "unslop": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": "MohamedAbdallah-14"
+  },
+  "upstash-qstash": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "ux-audit": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ux-copy": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ux-feedback": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "ux-flow": {
+    "level": "front-matter",
+    "attribution": "bitjaru"
+  },
+  "uxui-principles": {
+    "level": "front-matter",
+    "attribution": "uxuiprinciples"
+  },
+  "vercel-deployment": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "viboscope": {
+    "level": "front-matter",
+    "attribution": "ivanschmidt"
+  },
+  "video-generation": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "video-understand": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "viral-generator-builder": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "voice-agents": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "voice-ai-development": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "vscode-extension-guide-en": {
+    "level": "front-matter",
+    "attribution": "lewiswigmore"
+  },
+  "warren-buffett": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "web-artifacts-builder": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "web-reader": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "web-scraper": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "web-search": {
+    "license": "MIT",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "webapp-testing": {
+    "license": "Apache-2.0",
+    "level": "file",
+    "attribution": null
+  },
+  "whatsapp-cloud-api": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "wireshark-analysis": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "wordpress-centric-high-seo-optimized-blogwriting-skill": {
+    "level": "front-matter",
+    "attribution": "Whoisabhishekadhikari"
+  },
+  "wordpress-penetration-testing": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "wordpress-theme-development": {
+    "license": "GPL",
+    "level": "mention",
+    "attribution": null
+  },
+  "workflow-automation": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  },
+  "xlsx": {
+    "license": "proprietary",
+    "level": "front-matter",
+    "attribution": null
+  },
+  "xss-html-injection": {
+    "level": "front-matter",
+    "attribution": "zebbern"
+  },
+  "xvary-stock-research": {
+    "license": "MIT",
+    "level": "file",
+    "attribution": null
+  },
+  "yann-lecun": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "yann-lecun-debate": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "yann-lecun-filosofia": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "yann-lecun-tecnico": {
+    "level": "front-matter",
+    "attribution": "renat"
+  },
+  "zapier-make-patterns": {
+    "license": "Apache-2.0",
+    "level": "mention",
+    "attribution": null
+  }
+}

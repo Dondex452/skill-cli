@@ -1,0 +1,5 @@
+{
+  "_note": "Mini-core (rev.3): the only skills shipped as files. approved = owner-confirmed (permissive license + attribution). proposed = strict-7 awaiting owner approval.",
+  "approved": ["daily-gift", "faf-wizard", "idea-os", "lambdatest-agent-skills", "skill-check", "technical-change-tracker", "unslop"],
+  "proposed": []
+}

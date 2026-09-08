@@ -1,0 +1,5 @@
+{"name":"n8n-workflow-patterns","description":"Proven architectural patterns for building n8n workflows.","category":["workflow","n8n"],"tags":["n8n","automation"],"source":"opencode","license":"MIT","tokens":600,"files":3,"tier":"reviewed","availability":"core","updated":"2026-08-31"}
+{"name":"n8n-mcp-tools-expert","description":"Expert guide for using n8n-mcp tools.","source":".gemini","tokens":500,"files":1,"tier":"indexed","availability":"index-only","updated":"2026-08-30"}
+{"name":"web-scraper","description":"Scrapes websites and extracts structured data.","tags":["scraping","web"],"source":".cursor","tokens":420,"files":2,"tier":"indexed","availability":"index-only","updated":"2026-08-29"}
+{"name":"seo-audit","description":"Runs a full site audit and reports issues.","source":".gemini","tokens":900,"files":1,"tier":"indexed","availability":"index-only","updated":"2026-08-28"}
+{"name":"git-commit-message","description":"Writes conventional commit messages.","source":"manifest","tokens":810,"files":2,"tier":"indexed","availability":"index-only","updated":"2026-08-27"}

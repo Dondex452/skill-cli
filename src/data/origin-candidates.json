@@ -1,0 +1,6570 @@
+[
+  {
+    "name": "2slides-ppt-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/2slides-ppt-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ab-testing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ab-testing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accesslint-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accesslint-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accesslint-diff",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accesslint-diff",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accesslint-scan",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accesslint-scan",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accint-commitments",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accint-commitments",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accint-frames",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accint-frames",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "accint-solve",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/accint-solve",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ad-campaign-analyzer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ad-campaign-analyzer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "add-app-clip",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/add-app-clip",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-evaluation-reporting",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-evaluation-reporting",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-harness-fault-injection",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-harness-fault-injection",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-memory",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-memory",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-qa-authoring",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-qa-authoring",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-qa-debug-fix",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-qa-debug-fix",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-qa-result-triage",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-qa-result-triage",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-self-scheduling",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-self-scheduling",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-squad",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "alex",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/alex",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aria",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/aria",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dep",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/dep",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "luna",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/luna",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mason",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/mason",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "max",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/max",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "quinn",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/quinn",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "rex",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-squad/rex",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agents-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agents-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agenttrace-session-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agenttrace-session-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agy-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agy-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ai-loop",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ai-loop",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aider-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aider-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "alternatives-pages",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/alternatives-pages",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "analytics",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/analytics",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "android-dev",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/android-dev",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "android-ui-journey-testing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/android-ui-journey-testing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "anti-deception",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/anti-deception",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "anti-sleep",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/anti-sleep",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "anti-sycophancy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/anti-sycophancy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "anti-ui-slop",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/anti-ui-slop",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "antigravity-maintainer-batch-release",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/antigravity-maintainer-batch-release",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aomi-transact",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aomi-transact",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-analyzer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-analyzer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-and-interface-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-and-interface-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-designer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-designer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-integration",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-integration",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-onboarding",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-onboarding",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-rate-limit-handler",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-rate-limit-handler",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-sdk-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-sdk-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "api-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/api-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "apk-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/apk-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "appium-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/appium-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "apple-container",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/apple-container",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "applicationinsights-web-ts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/applicationinsights-web-ts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "arrowspace",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/arrowspace",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "article-illustrations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/article-illustrations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ask-copilot",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ask-copilot",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ask-matt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ask-matt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "atlas-cloud-media",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/atlas-cloud-media",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "attack-chain",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/attack-chain",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "audit-agent-run-evidence",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/audit-agent-run-evidence",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "auto-research",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/auto-research",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "automated-triage",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/automated-triage",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-agentic-ai",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-agentic-ai",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-cdk-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-cdk-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-cost-operations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-cost-operations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-mcp-setup",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-mcp-setup",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-serverless-eda",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-serverless-eda",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aws-sst-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/aws-sst-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ax-extract-workflow",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ax-extract-workflow",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "azure-ai-language-conversations-py",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/azure-ai-language-conversations-py",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "azure-servicebus-rust",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/azure-servicebus-rust",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "azure-storage-queue-rust",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/azure-storage-queue-rust",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "babysit-pr",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/babysit-pr",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "before-you-build",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/before-you-build",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "binary-diff",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/binary-diff",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "boost-asio-pro",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/boost-asio-pro",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brain-to-docs",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brain-to-docs",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brave-man",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brave-man",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brendangregg-use-tsa",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brendangregg-use-tsa",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-debt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-debt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-harness",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-harness",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-lint",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-lint",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-sweep",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-sweep",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brooks-test",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/brooks-test",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "browser-act",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/browser-act",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "browser-extension-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/browser-extension-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "browser-testing-with-devtools",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/browser-testing-with-devtools",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bug-hunt-swarm",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/bug-hunt-swarm",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bugs-are-annoying",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/bugs-are-annoying",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bumblebee",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/bumblebee",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "buywhere-product-catalog",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/buywhere-product-catalog",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "case-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/case-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "changelog-updates",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/changelog-updates",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "check-identity-pack",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/check-identity-pack",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ci-cd-and-automation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ci-cd-and-automation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ckw-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ckw-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "claude-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/claude-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "clean-code-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/clean-code-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cline-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cline-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cloud-k8s",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cloud-k8s",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cloudflare-security-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cloudflare-security-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cmux",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cmux",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "co-marketing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/co-marketing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-polish",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-polish",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-review-and-quality",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-review-and-quality",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-showcase-core-components",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-showcase-core-components",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-showcase-react-ui-patterns",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-showcase-react-ui-patterns",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-showcase-systematic-debugging",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-showcase-systematic-debugging",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-showcase-testing-patterns",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-showcase-testing-patterns",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "code-simplification",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/code-simplification",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "codebase-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/codebase-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "codex-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/codex-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "codex-profiles",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/codex-profiles",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cohesivity",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cohesivity",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "commandcode-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/commandcode-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "community-building",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/community-building",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitor-ad-intelligence",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/competitor-ad-intelligence",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitor-analysis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/competitor-analysis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitor-profiling",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/competitor-profiling",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitor-tracking",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/competitor-tracking",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "compile-knowledge",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/compile-knowledge",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "complexity-cuts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/complexity-cuts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "composition-patterns",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/composition-patterns",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "container-security-hardening",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/container-security-hardening",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "context-engineering",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/context-engineering",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "context-kit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/context-kit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "copilot-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/copilot-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cro",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cro",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cron-doctor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cron-doctor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cross-platform-contract-propagation-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cross-platform-contract-propagation-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-casebook",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-casebook",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-critical",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-critical",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-debate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-debate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-dialogue",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-dialogue",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-essay",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-essay",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-notebook",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-notebook",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-org",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-org",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-public",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-public",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-suite",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-suite",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe-teach",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe-teach",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "crossframe",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/crossframe",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cucumber-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cucumber-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "customer-research",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/customer-research",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cv-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cv-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cyber-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cyber-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cypress-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cypress-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "database-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/database-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "debate-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/debate-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "debugging-and-error-recovery",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/debugging-and-error-recovery",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "debugging-code",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/debugging-code",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "debugging-toolkit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/debugging-toolkit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "decision-navigator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/decision-navigator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "deepapi",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/deepapi",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "delegate-setup",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/delegate-setup",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "deploy-to-vercel",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/deploy-to-vercel",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "deprecation-and-migration",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/deprecation-and-migration",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "3d-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/3d-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-it",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ai-native-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/ai-native-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aurora-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/aurora-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bento-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/bento-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brutalism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/brutalism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "brutalist-typography",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/brutalist-typography",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "card-based-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/card-based-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "claymorphism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/claymorphism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "color-blocking",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/color-blocking",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "command-center-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/command-center-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cyber-y2k",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/cyber-y2k",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cyberpunk-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/cyberpunk-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dark-mode",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/dark-mode",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dashboard-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/dashboard-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "data-dense-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/data-dense-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "duotone-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/duotone-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "editorial-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/editorial-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "flat-design-2",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/flat-design-2",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "flat-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/flat-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "floating-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/floating-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frutiger-aero",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/frutiger-aero",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "glassmorphism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/glassmorphism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gradient-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/gradient-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "high-contrast",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/high-contrast",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "holographic-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/holographic-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "isometric-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/isometric-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "layered-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/layered-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "material-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/material-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "maximalism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/maximalism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "minimalism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/minimalism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monochromatic-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/monochromatic-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neo-brutalism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/neo-brutalism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neumorphism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/neumorphism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "retro-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/retro-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "retro-futurism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/retro-futurism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sci-fi-interface",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/sci-fi-interface",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "skeuomorphism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/skeuomorphism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "soft-pastel",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/soft-pastel",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "spatial-computing-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/spatial-computing-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "spatial-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/spatial-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "swiss-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/swiss-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "synthwave",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/synthwave",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tile-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/tile-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "typography-first",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/typography-first",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vaporwave",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/vaporwave",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vibrant-maximalism",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/vibrant-maximalism",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "widget-based-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/widget-based-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "y2k-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-it/y2k-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-philosophy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-philosophy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-spatial",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-spatial",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-thinking",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-thinking",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-ux",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-ux",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "detect-ai-text",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/detect-ai-text",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "deterministic-design",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/deterministic-design",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dev-to-hashnode",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/dev-to-hashnode",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-advocacy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-advocacy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-audience-context",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-audience-context",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-churn",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-churn",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-listening",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-listening",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-newsletter",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-newsletter",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-onboarding",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-onboarding",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-sandbox",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-sandbox",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-seo",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-seo",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "developer-signup-flow",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/developer-signup-flow",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "devrel-content",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/devrel-content",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "diagnose-android-overheating",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/diagnose-android-overheating",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "diagnosing-bugs",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/diagnosing-bugs",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "diagram-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/diagram-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "digital-forensics",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/digital-forensics",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "distribute-skill-to-all-agents",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/distribute-skill-to-all-agents",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ditto",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ditto",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "doc2math",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/doc2math",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "docs-as-marketing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/docs-as-marketing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "docs-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/docs-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "docs-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/docs-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "documentation-and-adrs",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/documentation-and-adrs",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "domain-modeling",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/domain-modeling",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dotnet-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/dotnet-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "doubt-driven-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/doubt-driven-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "drizzle-migration-conflict",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/drizzle-migration-conflict",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dsh-deepread",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/dsh-deepread",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "eas-update-insights",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/eas-update-insights",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ecl-harness-engineer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ecl-harness-engineer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "edr-bypass-re",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/edr-bypass-re",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "effective-agent-skills",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/effective-agent-skills",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "efficient-web-research",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/efficient-web-research",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "email-issue-fixer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/email-issue-fixer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "email-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/email-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "emil-design-eng",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/emil-design-eng",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "entropy-box",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/entropy-box",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "event-staffing-compliance",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/event-staffing-compliance",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "event-staffing-ordering",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/event-staffing-ordering",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "examprep-ai",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/examprep-ai",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "expo-brownfield",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/expo-brownfield",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "expo-examples",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/expo-examples",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "expo-module",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/expo-module",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "expo-observe",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/expo-observe",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "expo-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/expo-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "extract-document-data",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/extract-document-data",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fable-safe-prompt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/fable-safe-prompt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fact-check-x-complete",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/fact-check-x-complete",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "faf-context",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/faf-context",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "faf-go",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/faf-go",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "falsify",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/falsify",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "famulor-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/famulor-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "feature-tracking",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/feature-tracking",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fedora-hyprland-installer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/fedora-hyprland-installer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "find-complementary-founders",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/find-complementary-founders",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "find-matching-tenders",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/find-matching-tenders",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "firmware-pentest",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/firmware-pentest",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "flowhunt-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/flowhunt-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "folder-specific-claude-and-agents-md",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/folder-specific-claude-and-agents-md",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "formik-patterns",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/formik-patterns",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "free-tier-strategy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/free-tier-strategy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-architecture",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-architecture",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-data-contracts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-data-contracts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-lighthouse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-lighthouse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-observability",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-observability",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-optimistic-mutations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-optimistic-mutations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-seo",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-seo",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-ui-engineering",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-ui-engineering",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fsi-compliance-checker",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/fsi-compliance-checker",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "engine-selection",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/game-development/engine-selection",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gemini-interactions-api",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gemini-interactions-api",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gemini-live-api-dev",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gemini-live-api-dev",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gemini-omni-flash-api",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gemini-omni-flash-api",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "geminiignore-finops",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/geminiignore-finops",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "generate-nanobanana",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/generate-nanobanana",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ghidra-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ghidra-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "git-pr-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/git-pr-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "git-workflow-and-versioning",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/git-workflow-and-versioning",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "github-actions-advanced",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/github-actions-advanced",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "github-actions-debugger",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/github-actions-debugger",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "github-presence",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/github-presence",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "go-in-depth",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/go-in-depth",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "go-rust-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/go-rust-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "goal-loop",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/goal-loop",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "graceful-shutdown",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/graceful-shutdown",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "graphql-schema",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/graphql-schema",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "grill-me",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/grill-me",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "grill-with-docs",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/grill-with-docs",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "grilling",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/grilling",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "grok-build",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/grok-build",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "grok-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/grok-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "handoff",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/handoff",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hardware-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hardware-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hasdata-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hasdata-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hasdata",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hasdata",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-aws-context-discovery",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-aws-context-discovery",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-mcp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hf-mcp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-mem",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hf-mem",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-best",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-best",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-local-models",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-local-models",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-lora-space-builder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-lora-space-builder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-spaces",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-spaces",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-tool-builder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-tool-builder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-zerogpu",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/huggingface-zerogpu",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hugo-to-markdown",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hugo-to-markdown",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hyperexecute-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/hyperexecute-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ida-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ida-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "idea-autopsy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/idea-autopsy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "idea-refine",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/idea-refine",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "identity-federation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/identity-federation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ii-commons",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ii-commons",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "image-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/image-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "implement",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/implement",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "improve-codebase-architecture",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/improve-codebase-architecture",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "incremental-implementation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/incremental-implementation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "infinity",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/infinity",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ingest-youtube",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ingest-youtube",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "instructree",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/instructree",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "interview-style-doc-building",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/interview-style-doc-building",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "invariant-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/invariant-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "jest-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/jest-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "js-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/js-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "junit-5-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/junit-5-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "kimi-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/kimi-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "kubestellar-console",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/kubestellar-console",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "laravel-development-workflow",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/laravel-development-workflow",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "learn",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/learn",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lemmaly",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lemmaly",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lesson-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lesson-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "linkedin-content-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/linkedin-content-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "linkedin-post-writer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/linkedin-post-writer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "liuguang-banlan-ui",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/liuguang-banlan-ui",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "llm-council",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/llm-council",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "llm-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/llm-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-diff",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-diff",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-explain",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-explain",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-fix-all",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-fix-all",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-lens",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-lens",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-locate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-locate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "logic-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/logic-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "longbridge-content",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/longbridge-content",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "longbridge-fundamentals",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/longbridge-fundamentals",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "longbridge-market-data",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/longbridge-market-data",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lookdev-auto",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lookdev-auto",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lookdev",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lookdev",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "loop-library",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/loop-library",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "loopy",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/loopy",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lore",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lore",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "lovable-cleanup",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/lovable-cleanup",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "macos-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/macos-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mailtrap-managing-contacts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mailtrap-managing-contacts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mailtrap-sending-emails",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mailtrap-sending-emails",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mailtrap-setting-up-sending-domain",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mailtrap-setting-up-sending-domain",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mailtrap-testing-with-sandbox",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mailtrap-testing-with-sandbox",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "maintain-codex-wiki",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/maintain-codex-wiki",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "malware-analysis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/malware-analysis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markdown-rendering",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markdown-rendering",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "marketing-plan",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/marketing-plan",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-angular",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-angular",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-custom-components",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-custom-components",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-install",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-install",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-migration",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-migration",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-nuxt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-nuxt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-react",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-react",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-svelte",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-svelte",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-vue",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-vue",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-vue2-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-vue2-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-vue2-vite",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-vue2-vite",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "markstream-vue2",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/markstream-vue2",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mathguard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mathguard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mcp-tool-developer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mcp-tool-developer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mdpr-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mdpr-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mesh-memory",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mesh-memory",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "moatmri",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/moatmri",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mobile-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mobile-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "modellix",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/modellix",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monopoly",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monopoly",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "patterns",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monopoly/patterns",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "scale-benchmarks",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monopoly/scale-benchmarks",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "security-checklist",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monopoly/security-checklist",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tech-matrix",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monopoly/tech-matrix",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-analyze-root-cause",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-analyze-root-cause",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-asset-health",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-asset-health",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-monitoring-advisor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-monitoring-advisor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-performance-diagnosis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-performance-diagnosis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-remediation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-remediation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "monte-carlo-storage-cost-analysis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/monte-carlo-storage-cost-analysis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "muapi-media",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/muapi-media",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "multi-agent-architect",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/multi-agent-architect",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "multi-source-search",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/multi-source-search",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-agents",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-agents",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-binary-and-data",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-binary-and-data",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-code-tool",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-code-tool",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-error-handling",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-error-handling",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-multi-instance",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-multi-instance",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "n8n-subworkflows",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/n8n-subworkflows",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neon-ai-gateway",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/neon-ai-gateway",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neon-functions",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/neon-functions",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neon-object-storage",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/neon-object-storage",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neon-postgres-branches",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/neon-postgres-branches",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "neon-postgres-egress-optimizer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/neon-postgres-egress-optimizer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "newman-cicd-integration",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/newman-cicd-integration",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "nextjs-seo-indexing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/nextjs-seo-indexing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "nika",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/nika",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "not-a-vibe-coder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/not-a-vibe-coder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "observability-and-instrumentation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/observability-and-instrumentation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "offers",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/offers",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "omp-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/omp-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "onboarding",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/onboarding",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ontoly-software-graph",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ontoly-software-graph",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "open-dynamic-workflows",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/open-dynamic-workflows",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "open-source-marketing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/open-source-marketing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "openapi-spec-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/openapi-spec-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "opencode-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/opencode-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "optim-agent",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/optim-agent",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "options-flow-analyzer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/options-flow-analyzer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "orca-replay",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/orca-replay",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "orchestrate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/orchestrate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ot-ics",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ot-ics",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "outreachagent",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/outreachagent",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pagespeed-enhancer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pagespeed-enhancer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "papers-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/papers-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "parallel-search-mcp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/parallel-search-mcp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "patch-diff-exploit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/patch-diff-exploit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pdf-conversion-router",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pdf-conversion-router",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pentest-tools",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pentest-tools",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "src-hunter",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pentest-tools/src-hunter",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "people-data",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/people-data",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "performance-optimization",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/performance-optimization",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "permission-manager",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/permission-manager",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "photopea-embedded-editor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/photopea-embedded-editor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pi-custom-model",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pi-custom-model",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pi-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pi-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pi-web-search",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pi-web-search",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pilot-protocol",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pilot-protocol",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "planning-and-task-breakdown",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/planning-and-task-breakdown",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "poka-yoke",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/poka-yoke",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "polis-protocol-a-self-optimizing-city-of-agents",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/polis-protocol-a-self-optimizing-city-of-agents",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "postgresql-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/postgresql-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "postman-collection-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/postman-collection-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "postman-newman-automation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/postman-newman-automation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "postman-openapi-converter",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/postman-openapi-converter",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "power-user-cultivation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/power-user-cultivation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pptx-deck-creation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pptx-deck-creation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pr-merge-champion",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pr-merge-champion",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pre-release-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pre-release-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pre-ship-gate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pre-ship-gate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "premium-3d-website",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/premium-3d-website",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pricing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pricing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "privacy-mask",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/privacy-mask",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "product-decision-agent",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/product-decision-agent",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "product-marketing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/product-marketing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "production-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/production-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "project-state-governor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/project-state-governor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "protocol-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/protocol-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "prototype",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/prototype",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "public-relations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/public-relations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "puppeteer-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/puppeteer-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "push-skill-to-github",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/push-skill-to-github",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pwn-chain",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pwn-chain",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pytest-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/pytest-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "python-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/python-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "qoder-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/qoder-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "quit-sponsor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/quit-sponsor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "radare2",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/radare2",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "radio-sdr",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/radio-sdr",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "rclone-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/rclone-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "re-create",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/re-create",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "react-native-skills",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/react-native-skills",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "read-all-adrs",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/read-all-adrs",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "recsys-pipeline-architect",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/recsys-pipeline-architect",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "recursive-context-pruning-token-budgeting",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/recursive-context-pruning-token-budgeting",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "redis-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/redis-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "remote-gpu-trainer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/remote-gpu-trainer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "repo-maintainer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/repo-maintainer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "research-prompt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/research-prompt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "resolving-merge-conflicts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/resolving-merge-conflicts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "reverse-browser-automation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/reverse-browser-automation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "reverse-engineering",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/reverse-engineering",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dsl-vm-reverse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/reverse-engineering/dsl-vm-reverse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "review-and-simplify-changes",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/review-and-simplify-changes",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "review-animations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/review-animations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "review-multi-agent-orchestration",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/review-multi-agent-orchestration",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "review-swarm",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/review-swarm",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "rich-elicitation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/rich-elicitation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "riffkit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/riffkit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "robot-framework-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/robot-framework-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "routerbase-model-gateway",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/routerbase-model-gateway",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "run-deep-swe",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/run-deep-swe",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "runapi-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/runapi-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "runaway-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/runaway-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sandbase-mcp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sandbase-mcp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "schema-markup-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/schema-markup-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "screen-adverse-media",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/screen-adverse-media",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sdk-dx",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sdk-dx",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "security-and-hardening",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/security-and-hardening",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "selenium-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/selenium-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-drift",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/seo-drift",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "setup-help",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/setup-help",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "setup-matt-pocock-skills",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/setup-matt-pocock-skills",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sharp-coder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sharp-coder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "shipping-and-launch",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/shipping-and-launch",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "shopify-review-triage",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/shopify-review-triage",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "short",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/short",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "skill-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/skill-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "skill-security-audit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/skill-security-audit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "skill-suggester",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/skill-suggester",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "slideops",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/slideops",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "smart-git-automation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/smart-git-automation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "smartui-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/smartui-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "social-metadata-hardening",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/social-metadata-hardening",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "source-driven-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/source-driven-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "spec-driven-development",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/spec-driven-development",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "spec-driven-loop",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/spec-driven-loop",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "squirrel",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/squirrel",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "styleseed-design-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/styleseed-design-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "subagent-orchestrator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/subagent-orchestrator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "supabase-postgres-best-practices",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/supabase-postgres-best-practices",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "supabase",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/supabase",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "super-code",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bash",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/bash",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "c",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/c",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cpp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/cpp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "csharp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/csharp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dart",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/dart",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "elixir",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/elixir",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "go",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/go",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "java",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/java",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "kotlin",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/kotlin",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "php",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/php",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "python",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/python",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ruby",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/ruby",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "rust",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/rust",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "scala",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/scala",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "swift",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/swift",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "typescript",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/super-code/typescript",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "supply-chain-security",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/supply-chain-security",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "survey-generator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/survey-generator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "taisly-social-media-posting",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/taisly-social-media-posting",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "talivia-agent-kit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/talivia-agent-kit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tdd-workflows",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tdd-workflows",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tdd",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tdd",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "teach",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/teach",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "technical-tutorials",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/technical-tutorials",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "telegram-bot-messaging",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/telegram-bot-messaging",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "test-framework-migration-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/test-framework-migration-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "test-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/test-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "testng-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/testng-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "the-honoured-one",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/the-honoured-one",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "thick-client",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/thick-client",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "threat-hunting",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/threat-hunting",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "threat-intelligence",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/threat-intelligence",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "time-ledger",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/time-ledger",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "to-issues",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/to-issues",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "to-prd",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/to-prd",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "trading-ledger",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/trading-ledger",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "train-sentence-transformers",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/train-sentence-transformers",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "travel-planner",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/travel-planner",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tree-ring-memory",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tree-ring-memory",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "triage",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/triage",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "trl-training",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/trl-training",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tune-monitor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tune-monitor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ui-lint",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ui-lint",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ui-motion",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ui-motion",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ui-score",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ui-score",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ui-skills-root",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ui-skills-root",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ui-update",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ui-update",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unified-ai-gateway",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unified-ai-gateway",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unity-ai-game-creator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unity-ai-game-creator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unslop-commit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unslop-commit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unslop-file",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unslop-file",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unslop-review",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unslop-review",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unsloth-finetuning",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unsloth-finetuning",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "update-swiftui-apis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/update-swiftui-apis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "upstash-ratelimit",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/upstash-ratelimit",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "upstash-redis",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/upstash-redis",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "us-property-data",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/us-property-data",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "usage-based-pricing",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/usage-based-pricing",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "use-dom",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/use-dom",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "user-thoughts",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/user-thoughts",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "using-lwc",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/using-lwc",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "using-n8n-mcp-skills",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/using-n8n-mcp-skills",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vercel-cli-with-tokens",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vercel-cli-with-tokens",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vercel-optimize",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vercel-optimize",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vercel-react-view-transitions",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vercel-react-view-transitions",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "verify-citations",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/verify-citations",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "verify-document",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/verify-document",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vibe-code-cleanup",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vibe-code-cleanup",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vibe-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vibe-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vibecode-production-qa-validator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vibecode-production-qa-validator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "video-content-extractor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/video-content-extractor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "video-router",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/video-router",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vitest-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vitest-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "vps-server-management",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/vps-server-management",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "warehouse",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/warehouse",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "warp-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/warp-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "weaviate-cookbooks",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/weaviate-cookbooks",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "weaviate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/weaviate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "web-media-getter",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/web-media-getter",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "web-project-brainstorming",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/web-project-brainstorming",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "webdriverio-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/webdriverio-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wechat-official-account-strategist",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wechat-official-account-strategist",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wgm",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wgm",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wifi-wireless",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wifi-wireless",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wiki-builder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wiki-builder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "windows-ad",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/windows-ad",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "windows-privilege-escalation",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/windows-privilege-escalation",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wjttc-builder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wjttc-builder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wjttc-tester",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wjttc-tester",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "woo-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/woo-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "workorai",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/workorai",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wp-guard",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wp-guard",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "wp-site-health-auditor",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/wp-site-health-auditor",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "writing-great-skills",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/writing-great-skills",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "xiaohongshu-content-strategist",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/xiaohongshu-content-strategist",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "yao-meta-skill",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/yao-meta-skill",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "yield-intelligence",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/yield-intelligence",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "youtube-full",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/youtube-full",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "youtube-notetaker",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/youtube-notetaker",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "youtube-seo-optimizer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/youtube-seo-optimizer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "youtube-transcript",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/youtube-transcript",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "zcode-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/zcode-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "agent-creator",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/agent-creator",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "android-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/android-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "antigravity-agent-manager",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/antigravity-agent-manager",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "anywrite",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/anywrite",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "apple-notes-search",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/apple-notes-search",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "atlas-contract",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/atlas-contract",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "atlas-ledger",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/atlas-ledger",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "bilig-workpaper",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/bilig-workpaper",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "codex-fable5",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/codex-fable5",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "codex-subagent",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/codex-subagent",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cowork-to-code-bridge",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cowork-to-code-bridge",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cursor-delegate",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/cursor-delegate",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "delegating-to-agents",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/delegating-to-agents",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "design-system",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/design-system",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dispatch",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/dispatch",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "dos-verify-done-claims",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/dos-verify-done-claims",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ejentum-reasoning-harness",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/ejentum-reasoning-harness",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "frontend-slides-frontend-slides",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/frontend-slides-frontend-slides",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gemini-deep-research",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gemini-deep-research",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gh-attach",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gh-attach",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "gh-image",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/gh-image",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "longbridge",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/longbridge",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "macos-screen-recorder",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/macos-screen-recorder",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mercury-mcp",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mercury-mcp",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "mock-hunter",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/mock-hunter",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "news-sentiment-engine",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/news-sentiment-engine",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "odw",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/odw",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "polis-protocol",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/polis-protocol",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "postgres-readonly-queries",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/postgres-readonly-queries",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "screenstudio-alt",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/screenstudio-alt",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sendblue-api",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sendblue/sendblue-api",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sendblue-cli",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sendblue/sendblue-cli",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sendblue-notify",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sendblue/sendblue-notify",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "textme",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sendblue/textme",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "skill-issue",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/skill-issue",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "socialclaw",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/socialclaw",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sql-sentinel",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sql-sentinel",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sshepherd",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/sshepherd",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tokenwise",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tokenwise",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "tools-page-seo-optimizer",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/tools-page-seo-optimizer",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "unship",
+    "repo": "sickn33/agentic-awesome-skills",
+    "ref": "main",
+    "path": "skills/unship",
+    "pin": "3d343b9d71969848bbfebea47428fdb3cd18d496",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "windows-privilege-escalation",
+    "repo": "prewsh/antigravity-awesome-skills",
+    "ref": "main",
+    "path": "skills/windows-privilege-escalation",
+    "pin": "25e55b56777a23d6256295e0b4289e09c831e7d0",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "access",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "external_plugins/discord/skills/access",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "configure",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "external_plugins/discord/skills/configure",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "claude-automation-recommender",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/claude-code-setup/skills/claude-automation-recommender",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "claude-md-improver",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/claude-md-management/skills/claude-md-improver",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "claude-security",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/claude-security/skills/claude-security",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "cardputer-buddy",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/cwc-makers/skills/cardputer-buddy",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "m5-onboard",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/cwc-makers/skills/m5-onboard",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "example-command",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/example-plugin/skills/example-command",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "example-skill",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/example-plugin/skills/example-skill",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "writing-rules",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/hookify/skills/writing-rules",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "math-olympiad",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/math-olympiad/skills/math-olympiad",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "build-mcp-app",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/mcp-server-dev/skills/build-mcp-app",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "build-mcp-server",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/mcp-server-dev/skills/build-mcp-server",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "build-mcpb",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/mcp-server-dev/skills/build-mcpb",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "playground",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/playground/skills/playground",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "agent-development",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/agent-development",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "command-development",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/command-development",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "hook-development",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/hook-development",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "mcp-integration",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/mcp-integration",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "plugin-settings",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/plugin-settings",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "plugin-structure",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/plugin-structure",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "skill-development",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/plugin-dev/skills/skill-development",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "project-artifact",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/project-artifact/skills/project-artifact",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "receipts",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/receipts/skills/receipts",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "session-report",
+    "repo": "anthropics/claude-plugins-official",
+    "ref": "main",
+    "path": "plugins/session-report/skills/session-report",
+    "pin": "85cce0381e7860082641b59d961a2b8c368b8b79",
+    "reason": "official-anthropic"
+  },
+  {
+    "name": "hf-mcp",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "hf-mcp/skills/hf-mcp",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cli",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cli",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-aws-context-discovery",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-aws-context-discovery",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-python-env-setup",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-python-env-setup",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-sagemaker-deployment-planner",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-sagemaker-deployment-planner",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-sagemaker-iam-preflight",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-sagemaker-iam-preflight",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-sagemaker-production-defaults",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-sagemaker-production-defaults",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-cloud-serving-image-selection",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-cloud-serving-image-selection",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "hf-mem",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/hf-mem",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-best",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-best",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-community-evals",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-community-evals",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-datasets",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-datasets",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-gradio",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-gradio",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-llm-trainer",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-llm-trainer",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-local-models",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-local-models",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-lora-space-builder",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-lora-space-builder",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-paper-publisher",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-paper-publisher",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-papers",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-papers",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-spaces",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-spaces",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-tool-builder",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-tool-builder",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-trackio",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-trackio",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-vision-trainer",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-vision-trainer",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "huggingface-zerogpu",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/huggingface-zerogpu",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "train-sentence-transformers",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/train-sentence-transformers",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "trl-training",
+    "repo": "huggingface/skills",
+    "ref": "main",
+    "path": "skills/trl-training",
+    "pin": "97862b0fcc89c850fdd00c82ede1e62d3c930a6d",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "character-design",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/character-design",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cinematography",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/cinematography",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "commercial",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/commercial",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-gamedev",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-gamedev",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-models-catalog",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-models-catalog",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-prompting",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-prompting",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-recipes",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-recipes",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-redesign",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-redesign",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fal-regenerate-3d",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fal-regenerate-3d",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "fan-cam",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/fan-cam",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "genmedia-workflow",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/genmedia-workflow",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "genmedia",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/genmedia",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "marketing",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/marketing",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "model-routing",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/model-routing",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "storytelling",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/storytelling",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ugc",
+    "repo": "fal-ai-community/skills",
+    "ref": "main",
+    "path": "skills/ugc",
+    "pin": "9ca850412943251fc9a466c4c29fdaf7a303a3d8",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-ahrefs",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/ahrefs/skills/seo-ahrefs",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-bing",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/bing-webmaster/skills/seo-bing",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-firecrawl",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/firecrawl/skills/seo-firecrawl",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-profound",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/profound/skills/seo-profound",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-seranking",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/seranking/skills/seo-seranking",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-unlighthouse",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "extensions/unlighthouse/skills/seo-unlighthouse",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-backlinks",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-backlinks",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-cluster",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-cluster",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-content-brief",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-content-brief",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-drift",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-drift",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-ecommerce",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-ecommerce",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-flow",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-flow",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-google",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-google",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-local",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-local",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-maps",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-maps",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "seo-sxo",
+    "repo": "AgriciDaniel/claude-seo",
+    "ref": "main",
+    "path": "skills/seo-sxo",
+    "pin": "a1480c7e590b16001bd9dc1627eacdcd44d580f9",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ab-testing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/ab-testing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ads",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/ads",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "analytics",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/analytics",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "aso",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/aso",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "attribution",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/attribution",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "co-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/co-marketing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "community-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/community-marketing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitor-profiling",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/competitor-profiling",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "competitors",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/competitors",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "cro",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/cro",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "customer-research",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/customer-research",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "directory-submissions",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/directory-submissions",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "emails",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/emails",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "events",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/events",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "free-tools",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/free-tools",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "image",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/image",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "influencer-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/influencer-marketing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "launch",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/launch",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "marketing-council",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/marketing-council",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "marketing-loops",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/marketing-loops",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "marketing-plan",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/marketing-plan",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "offers",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/offers",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "onboarding",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/onboarding",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "paywalls",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/paywalls",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "popups",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/popups",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "pricing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/pricing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "product-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/product-marketing",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "prospecting",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/prospecting",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "public-relations",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/public-relations",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "referrals",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/referrals",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "schema",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/schema",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "signup",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/signup",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "sms",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/sms",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "social",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/social",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "video",
+    "repo": "coreyhaines31/marketingskills",
+    "ref": "main",
+    "path": "skills/video",
+    "pin": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "claude-code-project",
+    "repo": "zebbern/skills",
+    "ref": "main",
+    "path": "claude-code-project",
+    "pin": "6c68685507a0725e92265033f660cf704ef8f568",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "goal-creator",
+    "repo": "zebbern/skills",
+    "ref": "main",
+    "path": "goal-creator",
+    "pin": "6c68685507a0725e92265033f660cf704ef8f568",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-a11y",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-a11y",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-audit",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-audit",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-build",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-build",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-component",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-component",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-copy",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-copy",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-dial",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-dial",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-feedback",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-feedback",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-flow",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-flow",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-lint",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-lint",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-motion",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-motion",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-page",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-page",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-pattern",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-pattern",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-reference",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-reference",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-resolve",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-resolve",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-restyle",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-restyle",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-review",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-review",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-score",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-score",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-setup",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-setup",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-studio",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-studio",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-tokens",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-tokens",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-update",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-update",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-verify",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/ss-verify",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "styleseed",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "skills/styleseed",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  },
+  {
+    "name": "ss-learn",
+    "repo": "bitjaru/styleseed",
+    "ref": "main",
+    "path": "extensions/learning/skills/ss-learn",
+    "pin": "4a9b894c7b0fcf08530d75fc75012fd1e913ad1b",
+    "reason": "upstream-only"
+  }
+]

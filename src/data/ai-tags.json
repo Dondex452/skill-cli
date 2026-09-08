@@ -1,0 +1,1101 @@
+{
+  "10-andruia-skill-smith": [
+    "skill-authoring"
+  ],
+  "20-andruia-niche-intelligence": [
+    "business-ops"
+  ],
+  "ai-product": [
+    "business-ops",
+    "llm-apps"
+  ],
+  "algolia-search": [
+    "backend-development",
+    "web-development"
+  ],
+  "ask-questions-if-underspecified": [
+    "developer-tooling"
+  ],
+  "avalonia-viewmodels-zafiro": [
+    "dotnet-development"
+  ],
+  "awareness-stage-mapper": [
+    "marketing"
+  ],
+  "axiom": [
+    "software-architecture"
+  ],
+  "bill-gates": [
+    "business-ops"
+  ],
+  "binary-analysis-patterns": [
+    "security-engineering",
+    "embedded-systems"
+  ],
+  "blockrun": [
+    "developer-tooling"
+  ],
+  "blueprint": [
+    "developer-tooling"
+  ],
+  "brand-perception-psychologist": [
+    "marketing"
+  ],
+  "build": [
+    "developer-tooling"
+  ],
+  "carrier-relationship-management": [
+    "business-ops"
+  ],
+  "caveman": [
+    "developer-tooling"
+  ],
+  "caveman-commit": [
+    "git-workflow",
+    "developer-tooling"
+  ],
+  "caveman-compress": [
+    "context-engineering"
+  ],
+  "caveman-help": [
+    "developer-tooling"
+  ],
+  "caveman-stats": [
+    "developer-tooling"
+  ],
+  "cc-skill-continuous-learning": [
+    "skill-authoring"
+  ],
+  "cc-skill-project-guidelines-example": [
+    "skill-authoring"
+  ],
+  "cc-skill-strategic-compact": [
+    "skill-authoring"
+  ],
+  "chat-widget": [
+    "web-development"
+  ],
+  "chembl_database": [
+    "research-science",
+    "data-engineering"
+  ],
+  "churn-prevention": [
+    "business-ops",
+    "marketing"
+  ],
+  "cirq": [
+    "research-science"
+  ],
+  "citation-management": [
+    "writing-docs",
+    "research-science"
+  ],
+  "claude-code-guide": [
+    "developer-tooling"
+  ],
+  "claude-d3js-skill": [
+    "web-development",
+    "data-science"
+  ],
+  "claude-speed-reader": [
+    "productivity-tools"
+  ],
+  "claude-win11-speckit-update-skill": [
+    "devops"
+  ],
+  "clerk-auth": [
+    "security-engineering",
+    "backend-development"
+  ],
+  "cloudformation-best-practices": [
+    "devops",
+    "cloud-aws"
+  ],
+  "codebase-cleanup-tech-debt": [
+    "software-architecture"
+  ],
+  "competitive-landscape": [
+    "marketing",
+    "business-ops"
+  ],
+  "competitor-alternatives": [
+    "seo",
+    "marketing"
+  ],
+  "comprehensive-review-full-review": [
+    "software-architecture"
+  ],
+  "computer-use-agents": [
+    "ai-agents"
+  ],
+  "concise-planning": [
+    "developer-tooling"
+  ],
+  "conductor-manage": [
+    "developer-tooling"
+  ],
+  "conductor-new-track": [
+    "developer-tooling"
+  ],
+  "conductor-setup": [
+    "developer-tooling"
+  ],
+  "conductor-status": [
+    "developer-tooling"
+  ],
+  "conductor-validator": [
+    "developer-tooling"
+  ],
+  "context-agent": [
+    "context-engineering"
+  ],
+  "context-compression": [
+    "context-engineering"
+  ],
+  "context-degradation": [
+    "context-engineering",
+    "llm-apps"
+  ],
+  "context-fundamentals": [
+    "context-engineering",
+    "llm-apps"
+  ],
+  "context-guardian": [
+    "context-engineering"
+  ],
+  "context-management-context-restore": [
+    "context-engineering"
+  ],
+  "context-management-context-save": [
+    "context-engineering"
+  ],
+  "context-optimization": [
+    "context-engineering"
+  ],
+  "create-issue-gate": [
+    "developer-tooling"
+  ],
+  "create-rule": [
+    "skill-authoring",
+    "developer-tooling"
+  ],
+  "create-skill": [
+    "skill-authoring"
+  ],
+  "cred-omega": [
+    "security-engineering"
+  ],
+  "cross-platform-paths": [
+    "developer-tooling"
+  ],
+  "customer-psychographic-profiler": [
+    "marketing"
+  ],
+  "customer-support": [
+    "business-ops"
+  ],
+  "data-structure-protocol": [
+    "software-architecture",
+    "context-engineering"
+  ],
+  "database-admin": [
+    "database-management",
+    "devops"
+  ],
+  "database-migrations-migration-observability": [
+    "database-management",
+    "observability"
+  ],
+  "ddd-strategic-design": [
+    "software-architecture"
+  ],
+  "ddd-tactical-patterns": [
+    "software-architecture",
+    "backend-development"
+  ],
+  "debug-failing-test": [
+    "software-testing",
+    "observability"
+  ],
+  "debugger": [
+    "observability",
+    "software-testing"
+  ],
+  "debugging-strategies": [
+    "observability"
+  ],
+  "debugging-toolkit-smart-debug": [
+    "observability"
+  ],
+  "devops-troubleshooter": [
+    "devops",
+    "observability"
+  ],
+  "diary": [
+    "context-engineering",
+    "productivity-tools"
+  ],
+  "dispatching-parallel-agents": [
+    "ai-agents"
+  ],
+  "docx": [
+    "productivity-tools",
+    "writing-docs"
+  ],
+  "dream-interpreter": [
+    "llm-apps"
+  ],
+  "dwarf-expert": [
+    "developer-tooling"
+  ],
+  "dynamic-resources": [
+    "skill-authoring"
+  ],
+  "elixir-pro": [
+    "backend-development"
+  ],
+  "elon-musk": [
+    "business-ops"
+  ],
+  "embedding-strategies": [
+    "llm-apps",
+    "machine-learning"
+  ],
+  "emotional-arc-designer": [
+    "copywriting"
+  ],
+  "energy-procurement": [
+    "business-ops",
+    "finance-banking"
+  ],
+  "environment-setup-guide": [
+    "developer-tooling"
+  ],
+  "error-debugging-error-analysis": [
+    "observability"
+  ],
+  "error-debugging-error-trace": [
+    "observability"
+  ],
+  "error-detective": [
+    "observability"
+  ],
+  "error-diagnostics-error-analysis": [
+    "observability"
+  ],
+  "error-diagnostics-error-trace": [
+    "observability"
+  ],
+  "error-diagnostics-smart-debug": [
+    "observability"
+  ],
+  "error-handling-patterns": [
+    "software-architecture"
+  ],
+  "event-store-design": [
+    "software-architecture",
+    "database-management"
+  ],
+  "evolution": [
+    "rust-development"
+  ],
+  "executing-plans": [
+    "developer-tooling"
+  ],
+  "faf-wizard": [
+    "developer-tooling",
+    "context-engineering"
+  ],
+  "fal-generate": [
+    "image-generation",
+    "video-media"
+  ],
+  "fal-image-edit": [
+    "image-generation"
+  ],
+  "fal-platform": [
+    "saas-integrations"
+  ],
+  "favicon": [
+    "image-generation",
+    "web-development"
+  ],
+  "ffuf-claude-skill": [
+    "security-engineering"
+  ],
+  "file-organizer": [
+    "productivity-tools"
+  ],
+  "filesystem-context": [
+    "context-engineering"
+  ],
+  "find-bugs": [
+    "software-testing",
+    "security-engineering"
+  ],
+  "finishing-a-development-branch": [
+    "git-workflow"
+  ],
+  "fix-review": [
+    "software-architecture",
+    "software-testing"
+  ],
+  "food-database-query": [
+    "healthcare"
+  ],
+  "fp-data-transforms": [
+    "typescript-javascript"
+  ],
+  "fp-either-ref": [
+    "typescript-javascript"
+  ],
+  "fp-errors": [
+    "typescript-javascript"
+  ],
+  "fp-option-ref": [
+    "typescript-javascript"
+  ],
+  "fp-pragmatic": [
+    "typescript-javascript"
+  ],
+  "fp-types-ref": [
+    "typescript-javascript"
+  ],
+  "framework-migration-code-migrate": [
+    "software-architecture"
+  ],
+  "framework-migration-legacy-modernize": [
+    "software-architecture"
+  ],
+  "full-output-enforcement": [
+    "developer-tooling"
+  ],
+  "game-audio": [
+    "gaming",
+    "video-media"
+  ],
+  "game-development": [
+    "gaming"
+  ],
+  "gdb-cli": [
+    "developer-tooling",
+    "embedded-systems"
+  ],
+  "get-fortune-analysis": [
+    "business-ops"
+  ],
+  "go-concurrency-patterns": [
+    "backend-development"
+  ],
+  "godot-4-migration": [
+    "gaming"
+  ],
+  "godot-gdscript-patterns": [
+    "gaming"
+  ],
+  "grafana-dashboards": [
+    "observability"
+  ],
+  "hardware": [
+    "embedded-systems"
+  ],
+  "haskell-pro": [
+    "backend-development"
+  ],
+  "headline-psychologist": [
+    "copywriting"
+  ],
+  "hig-components-content": [
+    "design-ui"
+  ],
+  "hig-components-controls": [
+    "design-ui"
+  ],
+  "hig-components-dialogs": [
+    "design-ui",
+    "mobile-development"
+  ],
+  "hig-components-layout": [
+    "design-ui"
+  ],
+  "hig-components-menus": [
+    "design-ui"
+  ],
+  "hig-components-search": [
+    "design-ui"
+  ],
+  "hig-components-system": [
+    "design-ui",
+    "mobile-development"
+  ],
+  "hig-foundations": [
+    "design-ui"
+  ],
+  "hig-inputs": [
+    "design-ui"
+  ],
+  "hig-platforms": [
+    "design-ui",
+    "mobile-development"
+  ],
+  "hig-project-context": [
+    "design-ui"
+  ],
+  "hig-technologies": [
+    "design-ui"
+  ],
+  "high-end-visual-design": [
+    "design-ui"
+  ],
+  "hosted-agents": [
+    "ai-agents",
+    "serverless"
+  ],
+  "hugging-face-cli": [
+    "machine-learning",
+    "devops"
+  ],
+  "i18n-localization": [
+    "web-development"
+  ],
+  "idea-darwin": [
+    "business-ops"
+  ],
+  "idea-os": [
+    "business-ops",
+    "software-architecture"
+  ],
+  "identity-mirror": [
+    "business-ops"
+  ],
+  "image-edit": [
+    "image-generation",
+    "computer-vision"
+  ],
+  "image-understand": [
+    "computer-vision"
+  ],
+  "incident-responder": [
+    "observability"
+  ],
+  "incident-response-incident-response": [
+    "observability"
+  ],
+  "incident-runbook-templates": [
+    "observability"
+  ],
+  "inventory-demand-planning": [
+    "business-ops"
+  ],
+  "investigate-sentry-issue": [
+    "observability"
+  ],
+  "it-manager-pro": [
+    "business-ops"
+  ],
+  "iterate-pr": [
+    "git-workflow",
+    "devops"
+  ],
+  "itil-expert": [
+    "business-ops",
+    "devops"
+  ],
+  "java-lsp-tools": [
+    "developer-tooling"
+  ],
+  "java-pro": [
+    "backend-development"
+  ],
+  "kotler-macro-analyzer": [
+    "marketing",
+    "business-ops"
+  ],
+  "kpi-dashboard-design": [
+    "business-ops",
+    "design-ui"
+  ],
+  "langgraph": [
+    "llm-apps",
+    "ai-agents"
+  ],
+  "last30days": [
+    "llm-apps",
+    "web-scraping"
+  ],
+  "latex-paper-conversion": [
+    "writing-docs",
+    "research-science"
+  ],
+  "leiloeiro-avaliacao": [
+    "finance-banking",
+    "legal-compliance"
+  ],
+  "leiloeiro-edital": [
+    "legal-compliance"
+  ],
+  "leiloeiro-mercado": [
+    "finance-banking"
+  ],
+  "linear-claude-skill": [
+    "productivity-tools",
+    "saas-integrations"
+  ],
+  "lint-and-validate": [
+    "developer-tooling",
+    "software-testing"
+  ],
+  "literature_search_openalex": [
+    "research-science"
+  ],
+  "logistics-exception-management": [
+    "business-ops"
+  ],
+  "loss-aversion-designer": [
+    "marketing"
+  ],
+  "m365-agents-dotnet": [
+    "dotnet-development",
+    "saas-integrations"
+  ],
+  "macos-spm-app-packaging": [
+    "developer-tooling"
+  ],
+  "makepad-animation": [
+    "rust-development"
+  ],
+  "makepad-dsl": [
+    "rust-development"
+  ],
+  "makepad-event-action": [
+    "rust-development"
+  ],
+  "makepad-layout": [
+    "rust-development"
+  ],
+  "makepad-reference": [
+    "rust-development"
+  ],
+  "makepad-shaders": [
+    "rust-development"
+  ],
+  "makepad-splash": [
+    "rust-development"
+  ],
+  "makepad-widgets": [
+    "rust-development"
+  ],
+  "malware-analyst": [
+    "security-engineering"
+  ],
+  "manage-skills": [
+    "skill-authoring"
+  ],
+  "matematico-tao": [
+    "research-science",
+    "software-architecture"
+  ],
+  "memory-forensics": [
+    "security-engineering",
+    "observability"
+  ],
+  "memory-safety-patterns": [
+    "software-architecture",
+    "rust-development"
+  ],
+  "migrate-to-skills": [
+    "skill-authoring"
+  ],
+  "mindfulness-meditation": [
+    "healthcare",
+    "productivity-tools"
+  ],
+  "minecraft-bukkit-pro": [
+    "gaming"
+  ],
+  "mobile-design": [
+    "mobile-development",
+    "design-ui"
+  ],
+  "mobile-games": [
+    "gaming",
+    "mobile-development"
+  ],
+  "mobile-security-coder": [
+    "security-engineering",
+    "mobile-development"
+  ],
+  "monorepo-management": [
+    "devops",
+    "git-workflow"
+  ],
+  "moyu": [
+    "software-architecture",
+    "developer-tooling"
+  ],
+  "multi-advisor": [
+    "ai-agents",
+    "business-ops"
+  ],
+  "nanobanana-ppt-skills": [
+    "productivity-tools",
+    "design-ui"
+  ],
+  "new-rails-project": [
+    "backend-development"
+  ],
+  "nft-standards": [
+    "finance-banking"
+  ],
+  "nx-workspace-patterns": [
+    "devops",
+    "git-workflow"
+  ],
+  "objection-preemptor": [
+    "marketing"
+  ],
+  "observability-monitoring-monitor-setup": [
+    "observability"
+  ],
+  "odoo-automated-tests": [
+    "software-testing",
+    "business-ops"
+  ],
+  "odoo-backup-strategy": [
+    "devops",
+    "business-ops"
+  ],
+  "odoo-module-developer": [
+    "backend-development",
+    "business-ops"
+  ],
+  "odoo-orm-expert": [
+    "backend-development",
+    "business-ops"
+  ],
+  "odoo-security-rules": [
+    "security-engineering",
+    "business-ops"
+  ],
+  "odoo-xml-views-builder": [
+    "backend-development",
+    "business-ops"
+  ],
+  "on-call-handoff-patterns": [
+    "observability",
+    "devops"
+  ],
+  "opentargets_database": [
+    "research-science",
+    "data-engineering"
+  ],
+  "oss-hunter": [
+    "developer-tooling",
+    "git-workflow"
+  ],
+  "page-cro": [
+    "marketing",
+    "seo"
+  ],
+  "paywall-upgrade-cro": [
+    "ecommerce",
+    "marketing"
+  ],
+  "pc-games": [
+    "gaming"
+  ],
+  "pdf": [
+    "productivity-tools",
+    "writing-docs"
+  ],
+  "performance-engineer": [
+    "performance-optimization",
+    "observability"
+  ],
+  "performance-optimizer": [
+    "performance-optimization"
+  ],
+  "personal-tool-builder": [
+    "developer-tooling"
+  ],
+  "phase-gated-debugging": [
+    "observability",
+    "software-testing"
+  ],
+  "php-pro": [
+    "backend-development"
+  ],
+  "pitch-psychologist": [
+    "marketing"
+  ],
+  "popup-cro": [
+    "marketing",
+    "web-development"
+  ],
+  "postmortem-writing": [
+    "observability",
+    "writing-docs"
+  ],
+  "powershell-windows": [
+    "devops"
+  ],
+  "pptx": [
+    "productivity-tools",
+    "writing-docs"
+  ],
+  "predictingthepast": [
+    "research-science",
+    "machine-learning"
+  ],
+  "price-psychology-strategist": [
+    "marketing"
+  ],
+  "product-manager-toolkit": [
+    "business-ops"
+  ],
+  "production-scheduling": [
+    "business-ops"
+  ],
+  "professional-proofreader": [
+    "writing-docs",
+    "copywriting"
+  ],
+  "progressive-estimation": [
+    "business-ops"
+  ],
+  "progressive-web-app": [
+    "web-development",
+    "mobile-development"
+  ],
+  "project-skill-audit": [
+    "skill-authoring"
+  ],
+  "projection-patterns": [
+    "software-architecture",
+    "backend-development"
+  ],
+  "prompt-engineer": [
+    "prompt-engineering"
+  ],
+  "prompt-engineering": [
+    "prompt-engineering"
+  ],
+  "protocol-reverse-engineering": [
+    "security-engineering"
+  ],
+  "pubchem_database": [
+    "research-science",
+    "data-engineering"
+  ],
+  "puzzle-activity-planner": [
+    "education-learning"
+  ],
+  "pypict-skill": [
+    "software-testing"
+  ],
+  "quality-nonconformance": [
+    "business-ops"
+  ],
+  "reactome_database": [
+    "research-science",
+    "data-engineering"
+  ],
+  "recallmax": [
+    "context-engineering",
+    "llm-apps"
+  ],
+  "remotion": [
+    "video-media"
+  ],
+  "returns-reverse-logistics": [
+    "business-ops",
+    "ecommerce"
+  ],
+  "review-offered-task": [
+    "developer-tooling"
+  ],
+  "risk-manager": [
+    "finance-banking"
+  ],
+  "risk-metrics-calculation": [
+    "finance-banking"
+  ],
+  "robius-event-action": [
+    "rust-development"
+  ],
+  "robius-matrix-integration": [
+    "rust-development"
+  ],
+  "robius-state-management": [
+    "rust-development"
+  ],
+  "robius-widget-patterns": [
+    "rust-development"
+  ],
+  "run-integration-tests": [
+    "software-testing"
+  ],
+  "run-smoke-tests": [
+    "software-testing"
+  ],
+  "rust-pro": [
+    "rust-development"
+  ],
+  "saga-orchestration": [
+    "software-architecture",
+    "backend-development"
+  ],
+  "scarcity-urgency-psychologist": [
+    "marketing"
+  ],
+  "scroll-experience": [
+    "web-development"
+  ],
+  "search-specialist": [
+    "web-scraping"
+  ],
+  "security-bluebook-builder": [
+    "security-engineering"
+  ],
+  "security-scanning-security-dependencies": [
+    "security-engineering",
+    "devops"
+  ],
+  "segment-cdp": [
+    "marketing",
+    "saas-integrations"
+  ],
+  "semgrep-rule-creator": [
+    "security-engineering",
+    "software-testing"
+  ],
+  "semgrep-rule-variant-creator": [
+    "security-engineering"
+  ],
+  "sequence-psychologist": [
+    "marketing"
+  ],
+  "settings-precedence": [
+    "developer-tooling"
+  ],
+  "shader-programming-glsl": [
+    "web-development",
+    "gaming"
+  ],
+  "sharp-edges": [
+    "misc"
+  ],
+  "shellcheck-configuration": [
+    "developer-tooling",
+    "devops"
+  ],
+  "signup-flow-cro": [
+    "marketing",
+    "web-development"
+  ],
+  "skill-check": [
+    "skill-authoring"
+  ],
+  "skill-finder-cn": [
+    "skill-authoring"
+  ],
+  "skill-improver": [
+    "skill-authoring"
+  ],
+  "skill-installer": [
+    "skill-authoring",
+    "security-engineering"
+  ],
+  "skill-optimizer": [
+    "skill-authoring"
+  ],
+  "skill-rails-upgrade": [
+    "backend-development"
+  ],
+  "skill-scanner": [
+    "skill-authoring",
+    "security-engineering"
+  ],
+  "skill-writer": [
+    "skill-authoring"
+  ],
+  "speckit-updater": [
+    "devops"
+  ],
+  "speed": [
+    "productivity-tools"
+  ],
+  "subject-line-psychologist": [
+    "copywriting"
+  ],
+  "superpowers-lab": [
+    "skill-authoring"
+  ],
+  "swiftui-liquid-glass": [
+    "mobile-development",
+    "design-ui"
+  ],
+  "systematic-debugging": [
+    "observability",
+    "software-testing"
+  ],
+  "task-intelligence": [
+    "ai-agents"
+  ],
+  "team-collaboration-standup-notes": [
+    "business-ops",
+    "productivity-tools"
+  ],
+  "technical-change-tracker": [
+    "context-engineering",
+    "git-workflow"
+  ],
+  "templates": [
+    "developer-tooling"
+  ],
+  "test-driven-development": [
+    "software-testing"
+  ],
+  "test-fixing": [
+    "software-testing"
+  ],
+  "threejs-animation": [
+    "web-development"
+  ],
+  "threejs-fundamentals": [
+    "web-development"
+  ],
+  "threejs-geometry": [
+    "web-development"
+  ],
+  "threejs-interaction": [
+    "web-development"
+  ],
+  "threejs-lighting": [
+    "web-development"
+  ],
+  "threejs-loaders": [
+    "web-development"
+  ],
+  "threejs-materials": [
+    "web-development"
+  ],
+  "threejs-postprocessing": [
+    "web-development"
+  ],
+  "threejs-shaders": [
+    "web-development",
+    "gaming"
+  ],
+  "threejs-skills": [
+    "web-development"
+  ],
+  "threejs-textures": [
+    "web-development"
+  ],
+  "todos": [
+    "productivity-tools"
+  ],
+  "top-web-vulnerabilities": [
+    "security-engineering"
+  ],
+  "trust-calibrator": [
+    "marketing"
+  ],
+  "turborepo-caching": [
+    "devops",
+    "git-workflow"
+  ],
+  "twilio-communications": [
+    "saas-integrations"
+  ],
+  "unsplash-integration": [
+    "saas-integrations"
+  ],
+  "update-cursor-settings": [
+    "developer-tooling"
+  ],
+  "using-superpowers": [
+    "skill-authoring"
+  ],
+  "varlock": [
+    "security-engineering",
+    "devops"
+  ],
+  "vector-index-tuning": [
+    "llm-apps",
+    "database-management"
+  ],
+  "vexor": [
+    "developer-tooling"
+  ],
+  "vexor-cli": [
+    "developer-tooling"
+  ],
+  "vibe-code-auditor": [
+    "software-architecture",
+    "software-testing"
+  ],
+  "viral-generator-builder": [
+    "marketing",
+    "web-development"
+  ],
+  "visual-emotion-engineer": [
+    "design-ui"
+  ],
+  "vizcom": [
+    "design-ui",
+    "image-generation"
+  ],
+  "voice-agents": [
+    "speech-audio",
+    "ai-agents"
+  ],
+  "voice-ai-development": [
+    "speech-audio"
+  ],
+  "vr-ar": [
+    "gaming"
+  ],
+  "vscode-extension-guide-en": [
+    "developer-tooling"
+  ],
+  "vulnerability-scanner": [
+    "security-engineering"
+  ],
+  "warren-buffett": [
+    "finance-banking",
+    "business-ops"
+  ],
+  "web-games": [
+    "gaming",
+    "web-development"
+  ],
+  "web-search": [
+    "web-scraping",
+    "llm-apps"
+  ],
+  "windows-shell-reliability": [
+    "devops"
+  ],
+  "writing-plans": [
+    "developer-tooling"
+  ],
+  "writing-skills": [
+    "skill-authoring"
+  ],
+  "xlsx-official": [
+    "productivity-tools",
+    "writing-docs"
+  ],
+  "yann-lecun-debate": [
+    "llm-apps"
+  ],
+  "yann-lecun-filosofia": [
+    "llm-apps",
+    "education-learning"
+  ],
+  "zeroize-audit": [
+    "security-engineering"
+  ]
+}

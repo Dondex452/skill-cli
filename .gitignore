@@ -1,0 +1,4 @@
+node_modules/
+skills-full/
+*.log
+.DS_Store
