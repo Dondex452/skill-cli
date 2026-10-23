@@ -1,0 +1,11 @@
+# Build-time artifacts. The CLI only reads catalog.jsonl, core-pack.json and
+# curated-top.json at runtime; these larger files are inputs to the catalog
+# build scripts and stay in the repo, not in the npm tarball.
+ai-tags.json
+licenses.json
+origins.json
+origin-hints.json
+origin-verification.json
+origin-similarity.json
+origin-candidates.json
+parse-failures.json

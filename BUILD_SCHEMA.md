@@ -244,7 +244,7 @@ Only the one that exists wins; `--dir <path>` overrides.
 | 4.2 | Docs | `docs/CATEGORIES.md`, `docs/INSTALL.md`, `docs/BUILDING.md`, `docs/LICENSES.md` | all commands documented |
 | 4.3 | License + code of conduct | MIT + CONTRIBUTING.md + attribution credits | compliant |
 | 4.4 | CI workflow | GitHub Actions: typecheck, lint, test (fixtures), build:catalog integrity | green on push |
-| 4.5 | npm publish | package name + bin, versioned, unpacked ≤ 1 MB (core pack excluded from npm package? → decision in 1.5; default: pull core from repo tarball) | `npm i -g skill-cli && skill-cli search n8n` → 3 results |
+| 4.5 | npm publish | package name + bin, versioned, unpacked ≤ 1 MB (core pack excluded from npm package? → decision in 1.5; default: pull core from repo tarball) | `npm i -g skill-cli-ai && skill-cli search n8n` → 3 results |
 | 4.6 | GitHub release | tag v1.0.0, release notes | repo public, link on README |
 **Acceptance:** fresh machine → install from repo/npm → search → install a core skill → works offline.
 

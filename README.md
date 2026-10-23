@@ -9,7 +9,7 @@ across GitHub. This collects **1,569** of them into one searchable list, ranks t
 **top 106**, and installs them with one command.
 
 ```sh
-npm i -g skill-cli
+npm i -g skill-cli-ai            # installs the `skill-cli` command
 
 skill-cli search "voice ai"     # find skills for a task
 skill-cli top 20                # the curated best-of list

@@ -1,5 +1,5 @@
 {
-  "name": "skill-cli",
+  "name": "skill-cli-ai",
   "version": "0.1.0",
   "description": "Curated catalog + CLI for searching, reviewing, and installing AI agent skills",
   "type": "module",
@@ -11,11 +11,18 @@
     "skills-core/",
     "README.md",
     "LICENSE",
-    "docs/INSTALL.md"
+    "docs/INSTALL.md",
+    "docs/CATEGORIES.md",
+    "docs/LICENSES.md",
+    "docs/BUILDING.md"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Dondex452/skill-cli.git"
+  },
+  "homepage": "https://github.com/Dondex452/skill-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Dondex452/skill-cli/issues"
   },
   "keywords": [
     "ai",
@@ -32,7 +39,11 @@
     "build:categories-doc": "node scripts/taxonomy.mjs --docs",
     "scan:threats": "node scripts/scan-threats.mjs",
     "sanity-check": "node scripts/sanity-check.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/cli.test.mjs tests/fetch.test.mjs tests/install.test.mjs tests/search.test.mjs tests/taxonomy.test.mjs"
+    "test": "node --test tests/catalog.test.mjs tests/cli.test.mjs tests/fetch.test.mjs tests/install.test.mjs tests/search.test.mjs tests/taxonomy.test.mjs",
+    "prepublishOnly": "npm test && npm run sanity-check"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "engines": {

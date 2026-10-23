@@ -5,7 +5,7 @@
 Requires Node.js 18+.
 
 ```sh
-npm i -g skill-cli        # once published
+npm i -g skill-cli-ai     # installs the `skill-cli` command
 # or run from source:
 git clone https://github.com/Dondex452/skill-cli.git
 cd skill-cli
