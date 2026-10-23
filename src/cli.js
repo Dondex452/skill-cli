@@ -56,7 +56,7 @@ const FLAG_HINTS = {
   sort: "name|tokens|files|updated",
   json: "machine-readable output",
   dir: "agent skills dir (required for install/uninstall when none is detected)",
-  minimal: "install with examples stripped (BETA)",
+  minimal: "install SKILL.md only, skip examples/assets (BETA)",
   yes: "skip the confirmation prompt",
   "dry-run": "print the URL without opening a browser",
 };

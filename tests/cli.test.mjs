@@ -378,3 +378,41 @@ test("install then doctor sees a clean dir (hidden state ignored)", () => {
   assert.equal(r.status, 0);
   assert.doesNotMatch(r.stdout, /problem/);
 });
+
+test("install --minimal copies SKILL.md only and warns BETA", () => {
+  const agent = tmpdir();
+  const core = tmpdir();
+  const skill = makeCore(core, "n8n-workflow-patterns");
+  fs.mkdirSync(path.join(skill, "examples"), { recursive: true });
+  fs.writeFileSync(path.join(skill, "examples", "demo.md"), "# demo\n");
+  const r = run(["install", "n8n-workflow-patterns", "--dir", agent, "--minimal"], {
+    SKILL_CLI_SOURCE_DIR: core,
+  });
+  assert.equal(r.status, 0);
+  assert.match(r.stdout, /minimal \(BETA\)/);
+  assert.match(r.stdout, /skipped 1 bundled file/);
+  const dest = path.join(agent, "n8n-workflow-patterns");
+  assert.equal(fs.existsSync(path.join(dest, "SKILL.md")), true);
+  assert.equal(fs.existsSync(path.join(dest, "examples")), false);
+  const state = JSON.parse(
+    fs.readFileSync(path.join(agent, ".skill-cli", "state.json"), "utf8")
+  );
+  assert.equal(state["n8n-workflow-patterns"].minimal, true);
+  assert.equal(Object.keys(state["n8n-workflow-patterns"].files).length, 1);
+});
+
+test("install --minimal then uninstall works without false modified flags", () => {
+  const agent = tmpdir();
+  const core = tmpdir();
+  const skill = makeCore(core, "n8n-workflow-patterns");
+  fs.mkdirSync(path.join(skill, "assets"), { recursive: true });
+  fs.writeFileSync(path.join(skill, "assets", "big.bin"), "x\n");
+  const env = { SKILL_CLI_SOURCE_DIR: core };
+  assert.equal(
+    run(["install", "n8n-workflow-patterns", "--dir", agent, "--minimal"], env).status,
+    0
+  );
+  const r = run(["uninstall", "n8n-workflow-patterns", "--dir", agent, "--yes"], env);
+  assert.equal(r.status, 0);
+  assert.equal(fs.existsSync(path.join(agent, "n8n-workflow-patterns")), false);
+});

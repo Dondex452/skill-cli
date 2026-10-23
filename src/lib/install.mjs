@@ -87,16 +87,20 @@ export function writeState(targetDir, state) {
   fs.writeFileSync(statePath(targetDir), JSON.stringify(state, null, 2));
 }
 
-export function recordInstall(targetDir, name, files) {
+export function recordInstall(targetDir, name, files, extra = {}) {
   const state = readState(targetDir);
   state[name] = {
     files,
     installedAt: new Date().toISOString(),
+    ...extra,
   };
   writeState(targetDir, state);
 }
 
-export function copySkill(sourceRoot, name, targetDir) {
+// BETA: minimal installs copy only SKILL.md, so examples/assets/scripts stay
+// behind. The instructions still work, but any skill that reads its own
+// bundled files will notice they are missing.
+export function copySkill(sourceRoot, name, targetDir, { minimal = false } = {}) {
   const src = path.join(sourceRoot, name);
   if (!fs.existsSync(src) || !fs.statSync(src).isDirectory()) {
     throw new Error(`skill files not found under core pack: ${name}`);
@@ -105,10 +109,33 @@ export function copySkill(sourceRoot, name, targetDir) {
   if (fs.existsSync(dest)) {
     throw new Error(`already installed: ${name} (run: skill-cli uninstall ${name})`);
   }
-  fs.cpSync(src, dest, { recursive: true });
+
+  let skippedFiles = 0;
+  let skippedBytes = 0;
+  if (minimal) {
+    const skillFile = path.join(src, "SKILL.md");
+    if (!fs.existsSync(skillFile)) {
+      throw new Error(`minimal install needs SKILL.md, not found in: ${name}`);
+    }
+    for (const file of walkFiles(src)) {
+      if (file === skillFile) continue;
+      skippedFiles++;
+      skippedBytes += fs.statSync(file).size;
+    }
+    fs.mkdirSync(dest, { recursive: true });
+    fs.copyFileSync(skillFile, path.join(dest, "SKILL.md"));
+  } else {
+    fs.cpSync(src, dest, { recursive: true });
+  }
+
   const files = hashDir(dest);
-  recordInstall(targetDir, name, files);
-  return { dest, files: Object.keys(files).length };
+  recordInstall(targetDir, name, files, minimal ? { minimal: true } : {});
+  return {
+    dest,
+    files: Object.keys(files).length,
+    skippedFiles,
+    skippedBytes,
+  };
 }
 
 export function modifiedFiles(agentDir, name) {

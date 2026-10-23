@@ -52,6 +52,7 @@ author's permission — see `docs/LICENSES.md`.
 skill-cli search <query>            # ranked search
 skill-cli view <name>               # details: license, origin, curator note
 skill-cli install <name> [--dir X]  # install into an agent folder
+skill-cli install <name> --minimal  # BETA: SKILL.md only, skip bundled extras
 skill-cli uninstall <name>          # remove (asks before deleting your edits)
 skill-cli list [--category X]       # browse with filters
 skill-cli top [n] [--category X]    # the curated best-of

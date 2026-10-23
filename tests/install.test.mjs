@@ -100,3 +100,44 @@ test("hashDir produces stable independent hashes", () => {
   fs.writeFileSync(path.join(b, "SKILL.md"), "# same\n");
   assert.deepEqual(hashDir(a), hashDir(b));
 });
+
+test("copySkill minimal installs only SKILL.md and records minimal state", () => {
+  const core = tmp("skillcli-core-");
+  const agent = tmp("skillcli-agent-");
+  const src = makeCorePack(core, "demo-skill");
+  fs.writeFileSync(path.join(src, "README.md"), "root extra\n");
+  const result = copySkill(core, "demo-skill", agent, { minimal: true });
+  assert.equal(result.files, 1);
+  assert.equal(result.skippedFiles, 2);
+  assert.ok(result.skippedBytes > 0);
+  const dest = path.join(agent, "demo-skill");
+  assert.equal(fs.existsSync(path.join(dest, "SKILL.md")), true);
+  assert.equal(fs.existsSync(path.join(dest, "sub")), false);
+  assert.equal(fs.existsSync(path.join(dest, "README.md")), false);
+  const state = readState(agent)["demo-skill"];
+  assert.equal(Object.keys(state.files).length, 1);
+  assert.equal(state.minimal, true);
+});
+
+test("copySkill minimal refuses a skill without SKILL.md", () => {
+  const core = tmp("skillcli-core-");
+  const agent = tmp("skillcli-agent-");
+  fs.mkdirSync(path.join(core, "broken"), { recursive: true });
+  fs.writeFileSync(path.join(core, "broken", "notes.md"), "x\n");
+  assert.throws(
+    () => copySkill(core, "broken", agent, { minimal: true }),
+    /needs SKILL.md/
+  );
+  assert.equal(fs.existsSync(path.join(agent, "broken")), false);
+});
+
+test("modifiedFiles still works on a minimal install", () => {
+  const core = tmp("skillcli-core-");
+  const agent = tmp("skillcli-agent-");
+  makeCorePack(core, "demo-skill");
+  copySkill(core, "demo-skill", agent, { minimal: true });
+  assert.deepEqual(modifiedFiles(agent, "demo-skill"), []);
+  fs.writeFileSync(path.join(agent, "demo-skill", "SKILL.md"), "# edited\n");
+  const mods = modifiedFiles(agent, "demo-skill");
+  assert.ok(mods.some((m) => m.file === "SKILL.md" && m.kind === "modified"));
+});

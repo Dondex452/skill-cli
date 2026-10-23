@@ -46,3 +46,16 @@ Check before you install:
 skill-cli view <name>      # shows tier, license, origin pin
 skill-cli doctor           # validates your setup
 ```
+
+## Minimal installs (BETA)
+
+`--minimal` copies only `SKILL.md` and leaves `examples/`, `assets/`, `scripts/`
+and `references/` behind:
+
+```sh
+skill-cli install playwright-java --minimal
+```
+
+The instructions still work, but a skill that reads its own bundled files will
+notice they are missing. The CLI prints how many files it skipped. This is BETA:
+reinstall without `--minimal` if the skill needs its extras.

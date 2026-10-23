@@ -8,9 +8,9 @@ import { CODES, usageError } from "../lib/exit.mjs";
 
 export const command = {
   name: "install",
-  usage: "install <name> [--dir <agentDir>]",
-  summary: "copy a core-pack skill into your agent folder",
-  flags: { dir: "string" },
+  usage: "install <name> [--dir <agentDir>] [--minimal]",
+  summary: "install a skill into your agent folder",
+  flags: { dir: "string", minimal: "boolean" },
   async run(positionals, options) {
     const name = positionals.join(" ").trim();
     if (!name) return usageError("install needs a skill name", command.usage);
@@ -71,7 +71,7 @@ export const command = {
 
     let result;
     try {
-      result = copySkill(sourceRoot, record.name, agentDir);
+      result = copySkill(sourceRoot, record.name, agentDir, { minimal: options.minimal });
     } catch (err) {
       if (String(err.message).startsWith("already installed")) {
         console.error(`error: ${err.message}`);
@@ -86,9 +86,25 @@ export const command = {
         `  (${result.files} file${result.files === 1 ? "" : "s"}, ~${record.tokens} tokens)`
     );
     console.log(paint(`license: ${license} · source tool: ${record.source}`, "dim"));
+    printMinimalNote(result);
     return CODES.OK;
   },
 };
+
+function printMinimalNote(result) {
+  if (result.skippedFiles === 0) return;
+  const size = result.skippedBytes
+    ? ` (${(result.skippedBytes / 1024).toFixed(1)} KB)`
+    : "";
+  console.log(
+    paint(
+      `minimal (BETA): SKILL.md only — skipped ${result.skippedFiles} bundled ` +
+        `file${result.skippedFiles === 1 ? "" : "s"}${size}. Examples/assets are not installed; ` +
+        `reinstall without --minimal if the skill needs them.`,
+      "yellow"
+    )
+  );
+}
 
 async function installFetchable(record, options) {
   if (record.risk === "offensive") {
@@ -129,7 +145,7 @@ async function installFetchable(record, options) {
   }
   let result;
   try {
-    result = copySkill(stage.stageRoot, record.name, agentDir);
+    result = copySkill(stage.stageRoot, record.name, agentDir, { minimal: options.minimal });
   } catch (err) {
     fs.rmSync(stage.stageRoot, { recursive: true, force: true });
     if (String(err.message).startsWith("already installed")) {
@@ -158,5 +174,6 @@ async function installFetchable(record, options) {
   console.log(
     paint(`origin: ${o.repo}@${short(o.pin)} · ${o.path} · license: ${record.license ?? "unknown"}`, "dim")
   );
+  printMinimalNote(result);
   return CODES.OK;
 }
