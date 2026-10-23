@@ -7,6 +7,9 @@ import { test } from "node:test";
 import { fileURLToPath } from "node:url";
 
 const CLI = fileURLToPath(new URL("../src/cli.js", import.meta.url));
+const PKG = JSON.parse(
+  fs.readFileSync(fileURLToPath(new URL("../package.json", import.meta.url)), "utf8")
+);
 const FIX = fileURLToPath(new URL("./fixtures", import.meta.url));
 const FIXCAT = path.join(FIX, "catalog.jsonl");
 
@@ -34,7 +37,7 @@ test("--help lists commands with top ready (no planned markers)", () => {
 test("--version prints package version", () => {
   const r = run(["--version"]);
   assert.equal(r.status, 0);
-  assert.equal(r.stdout.trim(), "0.1.0");
+  assert.equal(r.stdout.trim(), PKG.version);
 });
 
 test("no arguments prints help and exits 1", () => {
