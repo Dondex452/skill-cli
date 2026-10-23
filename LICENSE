@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-ATTRIBUTION NOTE (not part of the MIT license above): this license covers the
-skill-cli code and tooling. Individual skills carry their own licenses and
-authors — see docs/LICENSES.md. The 7 skills shipped in skills-core/ are used
-under their MIT licenses with attribution recorded in src/data/licenses.json.
-Indexed (non-shipped) skills are never copied or redistributed by this project;
-fetch-install downloads them from their original authors at the user's request.

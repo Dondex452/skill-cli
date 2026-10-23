@@ -1,5 +1,17 @@
 # Licenses and attribution
 
+## Code license
+
+The `skill-cli` code and tooling in this repository are MIT licensed (see
+[LICENSE](../LICENSE)). That covers the CLI, the catalog format, and the build
+scripts — **not** the third-party skills.
+
+Individual skills carry their own licenses and authors. The 7 skills shipped in
+`skills-core/` are used under their MIT licenses, with attribution recorded in
+`src/data/licenses.json` and checked by `npm run sanity-check`. Indexed
+(non-shipped) skills are never copied or redistributed by this project:
+fetch-install downloads them from their original authors at your request.
+
 ## The rule
 
 This project **never redistributes other people's skills**. There are exactly
