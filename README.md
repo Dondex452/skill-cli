@@ -1,5 +1,8 @@
 # skill-cli
 
+[![npm](https://img.shields.io/npm/v/skill-cli-ai)](https://www.npmjs.com/package/skill-cli-ai)
+[![ci](https://github.com/Dondex452/skill-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Dondex452/skill-cli/actions/workflows/ci.yml)
+
 Your AI assistant can learn new skills. This finds the good ones and installs them.
 
 A **skill** is a small instruction pack that makes assistants like Claude Code,
